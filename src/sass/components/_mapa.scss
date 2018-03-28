@@ -1,0 +1,31 @@
+/**
+* Arquivo responsavel pelo estilo do Bloco do Mapa
+*
+* @version:  1.0
+*
+* Copyright(c) Todos os direitos reservados 
+*/
+
+/* Bloco do Mapa
+____________________________________________________________________________________ */
+
+.block__map {
+  position: relative;
+
+  .center {
+    position: relative;
+  }
+
+  .block__post--category {
+    right: 0;
+    text-align: right;
+    position: absolute;
+    top: -20px;
+    z-index: 2;
+  }
+
+  &--google {
+    min-height: 500px;
+    width: 100%;
+  }
+}

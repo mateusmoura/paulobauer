@@ -118,7 +118,7 @@ function MarkerClusterer(map, opt_markers, opt_options, color) {
  * @type {string}
  * @private
  */
-MarkerClusterer.prototype.MARKER_CLUSTER_IMAGE_PATH_ = base_url + "img/mapa/m/";//'http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/' + 'images/m';
+MarkerClusterer.prototype.MARKER_CLUSTER_IMAGE_PATH_ = base_url + "../images/mapa/m/";//'http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/' + 'images/m';
 
 
 /**

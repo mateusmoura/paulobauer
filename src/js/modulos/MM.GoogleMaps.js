@@ -27,8 +27,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     this.typesFilter		= ["3000", "3002", "3001", "3003", "4004", "4001", "4000", "4002", "4003", "5000", "5002", "5001", "6002", "6000", "6001", "1000", "1004", "1005", "1002", "1001", "1003", "2004", "2005", "2000", "2001", "2002", "2003"];
     this.listDivs			= []; // Lista das divs do customLabel
     this.map				= null;
-    //this.imageUrl			= base_url + "img/mapa/pin/preto.png";//'http://chart.apis.google.com/chart?cht=mm&chs=24x32&' + 'chco=FFFFFF,008CFF,000000&ext=.png';
-    this.imageUrl			= 'http://chart.apis.google.com/chart?cht=mm&chs=24x32&' + 'chco=FFFFFF,008CFF,000000&ext=.png';
+    this.imageUrl			= base_url + "../images/mapa/pin/preto.png";//'http://chart.apis.google.com/chart?cht=mm&chs=24x32&' + 'chco=FFFFFF,008CFF,000000&ext=.png';
     this.styles				= {
                   t1: { name: "violeta", cod: "A578D4" },
                   t2: { name: "verde", cod: "7BC12A" },
@@ -74,9 +73,9 @@ Module('MM.GoogleMaps', function (GoogleMaps){
   GoogleMaps.fn.config = function(){
     this.google_geocoder = new google.maps.Geocoder();
     this.google_map = new google.maps.Map(this.container, {
-      zoom: 12,
+      zoom: 7,
       scrollwheel: false,
-      center: new google.maps.LatLng(-15.793914, -47.882801),
+      center: new google.maps.LatLng(-27.6745671, -52.4254512),
       mapTypeId: google.maps.MapTypeId.ROADMAP
     });
 
@@ -121,71 +120,64 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     });
 
     for (var i = this.data_json.length - 1; i >= 0; i--) {
-      console.log(`${this.data_json[i].Cidade}, SC`)
-      this.google_geocoder.geocode({ 'address': `${this.data_json[i].Cidade}, SC`}, (results, status) => {
-        console.log(results, status);
-      })
+    //for (var i = 0; i < this.data_json.length; i++) {
+      var latLng = new google.maps.LatLng(this.data_json[i].lat, this.data_json[i].long),
+        marker = new google.maps.Marker({
+          position			: latLng,
+          draggable			: false,
+          icon				: new google.maps.MarkerImage(base_url + '../images/mapa/pin/preto.png', new google.maps.Size(25, 34)),
+          title				: this.data_json[i].Cidade,
+          // categories			: this.data_json[i].categories,
+          //horario				: this.data_json[i].horario_de_funcionamento,
+          //endereco			: this.data_json[i].localizacao.address,
+          //link_do_post		: this.data_json[i].link_do_post,
+          //imagem				: this.data_json[i].imagem,
+          html: '<div class="block__infobox">'+
+                '<div class="block__infobox--body">'+
+                  '<div class="block__infobox--body-overlay"></div>' +
+                  '<img src="' + this.data_json[i].imagem + '" />' +
+                  '<h3>' + this.data_json[i].post_title + '</h3>' +
+                  '<p>' + this.data_json[i].address + '</p>' +
+                  '<span>' + this.data_json[i].horario_de_funcionamento + '</span>' +
+
+                  '<div class="block__infobox--category">' +
+                    '<nav></nav>' +
+                  '</div>' +
+
+                  '<div class="block__infobox--content"><span class="loading"></span></div>'+
+                  '<div class="block__infobox--foot">'+
+                    '<a class="fechar" href="' + this.data_json[i].link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
+                  '</div>'+
+                '</div>'+
+                '<div class="block__infobox--footer"></div>'+
+              '</div>'
+        });
+
+      google.maps.event.addListener(marker, 'click', function	(event) {
+        var ev = event,
+          $mevent = this;
+
+        var _buildHTML					= $('<div>' + $mevent.html + '</div>'),
+          _nav						= $('.block__infobox--category nav', _buildHTML),
+          _cat_html					= $('<a href="#this" class="btn btn-default"></a>');
+
+        for (var b = $mevent.categories.length - 1; b >= 0; b--) {
+          _cat_html.text($mevent.categories[b].name).attr('href', $mevent.categories[b].permalink);
+          _cat_html.appendTo(_nav);
+        }
+
+        _this.infowindow.setContent(_buildHTML.html());
+        _this.infowindow.open(_this.google_map);
+        _this.infowindow.setPosition(event.latLng);
+
+        //oThis.getMarkers( "hash=" + this.hash, base_url + "mapa/obra/", buildInfo, "json", "POST", false );
+        //oThis.noRefresh = true;
+      });
+
+      this.markers.push(marker);
     }
 
-    // for (var i = this.data_json.length - 1; i >= 0; i--) {
-    // //for (var i = 0; i < this.data_json.length; i++) {
-    //   var latLng = new google.maps.LatLng(this.data_json[i].localizacao.lat, this.data_json[i].localizacao.lng),
-    //     marker = new google.maps.Marker({
-    //       position			: latLng,
-    //       draggable			: false,
-    //       icon				: new google.maps.MarkerImage(base_url + 'img/mapa/pin/preto.png', new google.maps.Size(25, 34)),
-    //       title				: this.data_json[i].post_title,
-    //       categories			: this.data_json[i].categories,
-    //       //horario				: this.data_json[i].horario_de_funcionamento,
-    //       //endereco			: this.data_json[i].localizacao.address,
-    //       //link_do_post		: this.data_json[i].link_do_post,
-    //       //imagem				: this.data_json[i].imagem,
-    //       html: '<div class="block__infobox">'+
-    //             '<div class="block__infobox--body">'+
-    //               '<div class="block__infobox--body-overlay"></div>' +
-    //               '<img src="' + this.data_json[i].imagem + '" />' +
-    //               '<h3>' + this.data_json[i].post_title + '</h3>' +
-    //               '<p>' + this.data_json[i].localizacao.address + '</p>' +
-    //               '<span>' + this.data_json[i].horario_de_funcionamento + '</span>' +
-
-    //               '<div class="block__infobox--category">' +
-    //                 '<nav></nav>' +
-    //               '</div>' +
-
-    //               '<div class="block__infobox--content"><span class="loading"></span></div>'+
-    //               '<div class="block__infobox--foot">'+
-    //                 '<a class="fechar" href="' + this.data_json[i].link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
-    //               '</div>'+
-    //             '</div>'+
-    //             '<div class="block__infobox--footer"></div>'+
-    //           '</div>'
-    //     });
-
-    //   google.maps.event.addListener(marker, 'click', function	(event) {
-    //     var ev = event,
-    //       $mevent = this;
-
-    //     var _buildHTML					= $('<div>' + $mevent.html + '</div>'),
-    //       _nav						= $('.block__infobox--category nav', _buildHTML),
-    //       _cat_html					= $('<a href="#this" class="btn btn-default"></a>');
-
-    //     for (var b = $mevent.categories.length - 1; b >= 0; b--) {
-    //       _cat_html.text($mevent.categories[b].name).attr('href', $mevent.categories[b].permalink);
-    //       _cat_html.appendTo(_nav);
-    //     }
-
-    //     _this.infowindow.setContent(_buildHTML.html());
-    //     _this.infowindow.open(_this.google_map);
-    //     _this.infowindow.setPosition(event.latLng);
-
-    //     //oThis.getMarkers( "hash=" + this.hash, base_url + "mapa/obra/", buildInfo, "json", "POST", false );
-    //     //oThis.noRefresh = true;
-    //   });
-
-    //   this.markers.push(marker);
-    //}
-
-    this.mc					= new MarkerClusterer(this.google_map, this.markers, this.mcOptions, 'preto');
+    this.mc	= new MarkerClusterer(this.google_map, this.markers, this.mcOptions, 'preto');
   };
   /**
   * Adiciona os eventos necessários.

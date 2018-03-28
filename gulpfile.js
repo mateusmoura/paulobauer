@@ -79,7 +79,7 @@ gulp.task('serve', ['sass', 'fileinclude', 'js'], () => {
   });
 
   gulp.watch([`${config.srcDir}/sass/*.scss`, `${config.srcDir}/sass/*/*.scss`], ['sass']);
-  gulp.watch([`${config.srcDir}/js/*.js`, `${config.srcDir}/js/{**/,}*.js`], ['js']).on('change', browserSync.reload);
+  gulp.watch([`${config.srcDir}/js/*.js`, `${config.srcDir}/js/{**/,}*.js`], ['js']);//.on('change', browserSync.reload);
   gulp.watch([`${config.srcDir}/*.html`, `${config.srcDir}/includes/*.html`], ['fileinclude']).on('change', () => {
     setTimeout(() => {
       browserSync.reload();

@@ -44,7 +44,11 @@ var site = {
   global: function(){
     // var _collapse = $('.collapse');
 
-    this.convertXLSXtoJSON();
+    // this.convertXLSXtoJSON();
+
+    $.getScript(base_url + "docs/success.json", (resp) => {
+      MM.GoogleMaps(document.getElementById('google__map'), JSON.parse(resp));
+    });
 
     // MM.Mascarar();
     // for (var i = _collapse.length - 1; i >= 0; i--) {

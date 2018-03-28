@@ -146,4 +146,38 @@ h6 {
   font-size: 16px;
 }
 
+/**
+* Arquivo responsavel pelo estilo do Bloco do Mapa
+*
+* @version:  1.0
+*
+* Copyright(c) Todos os direitos reservados 
+*/
+/* Bloco do Mapa
+____________________________________________________________________________________ */
+/* line 12, src/sass/components/_mapa.scss */
+.block__map {
+  position: relative;
+}
+
+/* line 15, src/sass/components/_mapa.scss */
+.block__map .center {
+  position: relative;
+}
+
+/* line 19, src/sass/components/_mapa.scss */
+.block__map .block__post--category {
+  right: 0;
+  text-align: right;
+  position: absolute;
+  top: -20px;
+  z-index: 2;
+}
+
+/* line 27, src/sass/components/_mapa.scss */
+.block__map--google {
+  min-height: 500px;
+  width: 100%;
+}
+
 /*# sourceMappingURL=maps/style.css.map */
