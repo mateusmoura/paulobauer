@@ -3,6 +3,7 @@
      "Valor":"R$ 438,750.00",
      "Cidade":"Sul Brasil",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-26.7184655,
      "long":-52.9385002
@@ -11,6 +12,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Águas Mornas",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-27.743632,
      "long":-48.9202828
@@ -19,6 +21,7 @@
      "Valor":"R$ 190,000.00",
      "Cidade":"Campos Novos",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-27.4009891,
      "long":-51.2258597
@@ -27,6 +30,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Celso Ramos",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-27.6618869,
      "long":-51.2422395
@@ -35,6 +39,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Descanso",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-26.8464426,
      "long":-53.4986586
@@ -43,6 +48,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Guatambú",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-27.1096761,
      "long":-52.7670021
@@ -51,6 +57,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Meleiro",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-28.8564935,
      "long":-49.5891233
@@ -59,6 +66,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Modelo",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-26.7763242,
      "long":-53.053818
@@ -67,6 +75,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Rancho Queimado",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-27.6735087,
      "long":-49.0124511
@@ -75,6 +84,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Rio dos Cedros",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-26.7435083,
      "long":-49.27435759999999
@@ -83,6 +93,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Santa Teresinha",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-26.628556,
      "long":-49.9777136
@@ -91,6 +102,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"São João do Oeste",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-27.0751346,
      "long":-53.5852111
@@ -99,6 +111,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"São Joaquim",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-28.292455,
      "long":-49.9375873
@@ -107,6 +120,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Sul Brasil",
      "Tipo":"Agricultura",
+     "tema": "t3",
      "Descrição":"Equipamentos agrícolas",
      "lat":-26.7184655,
      "long":-52.9385002
@@ -115,6 +129,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Itaiópolis",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Ambulância para o município",
      "lat":-26.3396691,
      "long":-49.9061128
@@ -123,6 +138,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Xaxim",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Ambulância para o município",
      "lat":-26.9560607,
      "long":-52.53600729999999
@@ -131,6 +147,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Lebon Régis",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Equip. para Hosp. e Maternidade Sto. Antônio",
      "lat":-26.8761329,
      "long":-50.72089889999999
@@ -139,6 +156,7 @@
      "Valor":"R$ 106,400.00",
      "Cidade":"Joinville",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo e equipamentos para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -147,6 +165,7 @@
      "Valor":"R$ 53,200.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo e equipamentos para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -155,6 +174,7 @@
      "Valor":"R$ 53,200.00",
      "Cidade":"Tubarão",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo e equipamentos para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.471976,
      "long":-49.0147244
@@ -163,6 +183,7 @@
      "Valor":"R$ 159,200.00",
      "Cidade":"Florianópolis",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo e equipamentos para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -171,6 +192,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Abelardo Luz",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.5663539,
      "long":-52.327602
@@ -179,6 +201,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Araranguá",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.9361187,
      "long":-49.4923013
@@ -187,6 +210,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Balneário Camboriú",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.9930938,
      "long":-48.6356285
@@ -195,6 +219,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Barra Velha",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.6331439,
      "long":-48.6846608
@@ -203,6 +228,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Biguaçu",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.4955748,
      "long":-48.65536849999999
@@ -211,6 +237,7 @@
      "Valor":"R$ 53,200.00",
      "Cidade":"Blumenau",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -219,6 +246,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Bombinhas",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.1466465,
      "long":-48.5054577
@@ -227,6 +255,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Braço do Norte",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.2728323,
      "long":-49.1676018
@@ -235,6 +264,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Brusque",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.0982053,
      "long":-48.9111422
@@ -243,6 +273,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Caçador",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.7761609,
      "long":-51.0124989
@@ -251,6 +282,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Caibi",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.0757377,
      "long":-53.2492692
@@ -259,6 +291,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Calmon",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.6026232,
      "long":-51.0985075
@@ -267,6 +300,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Camboriú",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.9930938,
      "long":-48.6356285
@@ -275,6 +309,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Campo Erê",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.3942706,
      "long":-53.0791871
@@ -283,6 +318,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Campos Novos",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.4009891,
      "long":-51.2258597
@@ -291,6 +327,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Canoinhas",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.1887084,
      "long":-50.5549719
@@ -299,6 +336,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Capinzal",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.3482312,
      "long":-51.6044276
@@ -307,6 +345,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Capivari de Baixo",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.4398646,
      "long":-48.957459
@@ -315,6 +354,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Catanduvas",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.0565963,
      "long":-51.70451
@@ -323,6 +363,7 @@
      "Valor":"R$ 53,200.00",
      "Cidade":"Chapecó",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.1009343,
      "long":-52.615699
@@ -331,6 +372,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Cocal do Sul",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.6000515,
      "long":-49.3348621
@@ -339,6 +381,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Concórdia",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.2331134,
      "long":-52.0275531
@@ -347,6 +390,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Correia Pinto",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.5885615,
      "long":-50.3621241
@@ -355,6 +399,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Criciúma",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.6727702,
      "long":-49.3733771
@@ -363,6 +408,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Cunha Porã",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.892643,
      "long":-53.1715625
@@ -371,6 +417,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Curitibanos",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.282855,
      "long":-50.5821037
@@ -379,6 +426,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Dionísio Cerqueira",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.2649782,
      "long":-53.636269
@@ -387,6 +435,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Erval Velho",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.2802083,
      "long":-51.4099625
@@ -395,6 +444,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Forquilhinha",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.7477963,
      "long":-49.4745059
@@ -403,6 +453,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Fraiburgo",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.0235945,
      "long":-50.9223466
@@ -411,6 +462,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Garopaba",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.0272534,
      "long":-48.6189508
@@ -419,6 +471,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Garuva",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.0296737,
      "long":-48.8555034
@@ -427,6 +480,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Gaspar",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.9340955,
      "long":-48.9539069
@@ -435,6 +489,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Guaramirim",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.4743278,
      "long":-49.0023
@@ -443,6 +498,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Herval d' Oeste",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.2006894,
      "long":-51.4099625
@@ -451,6 +507,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Içara",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.7137096,
      "long":-49.3091437
@@ -459,6 +516,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Imbituba",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.227627,
      "long":-48.6691286
@@ -467,6 +525,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Indaial",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.8997445,
      "long":-49.2358981
@@ -475,6 +534,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Irani",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.0440136,
      "long":-51.9156992
@@ -483,6 +543,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Itajaí",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.9107052,
      "long":-48.6709133
@@ -491,6 +552,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Itapema",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.0960682,
      "long":-48.6178074
@@ -499,6 +561,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Ituporanga",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.4410179,
      "long":-49.5483671
@@ -507,6 +570,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.4822209,
      "long":-49.073477
@@ -515,6 +579,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Joaçaba",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.1743773,
      "long":-51.5054475
@@ -523,6 +588,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Lages",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.8157141,
      "long":-50.3263964
@@ -531,6 +597,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Laguna",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.4748354,
      "long":-48.7837539
@@ -539,6 +606,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Lontras",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.1688504,
      "long":-49.535533
@@ -547,6 +615,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Mafra",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.1164276,
      "long":-49.8091065
@@ -555,6 +624,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Maravilha",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.7650048,
      "long":-53.1745281
@@ -563,6 +633,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Monte Castelo",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.4596996,
      "long":-50.2308371
@@ -571,6 +642,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Morro da Fumaça",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.6540002,
      "long":-49.2120154
@@ -579,6 +651,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Navegantes",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.8947924,
      "long":-48.6550692
@@ -587,6 +660,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Palhoça",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.6466202,
      "long":-48.6703613
@@ -595,6 +669,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Palmitos",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.0717889,
      "long":-53.1592229
@@ -603,6 +678,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Penha",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.7744186,
      "long":-48.64368959999999
@@ -611,6 +687,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Pinhalzinho",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.8526671,
      "long":-52.9814383
@@ -619,6 +696,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Pomerode",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.7376205,
      "long":-49.17436259999999
@@ -627,6 +705,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Ponte Serrada",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.8732278,
      "long":-52.0179662
@@ -635,6 +714,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Porto Belo",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.157469,
      "long":-48.5757024
@@ -643,6 +723,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Porto União",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.2389124,
      "long":-51.0817102
@@ -651,6 +732,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Rio Negrinho",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.2499033,
      "long":-49.51806699999999
@@ -659,6 +741,7 @@
      "Valor":"R$ 26,601.00",
      "Cidade":"São Bento do Sul",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.2500365,
      "long":-49.3835566
@@ -667,6 +750,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"São Cristóvão do Sul",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.3167602,
      "long":-50.3275427
@@ -675,6 +759,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"São Francisco do Sul",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.2490884,
      "long":-48.6346216
@@ -683,6 +768,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"São João Batista",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.2758303,
      "long":-48.8503707
@@ -691,6 +777,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"São Joaquim",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-28.292455,
      "long":-49.9375873
@@ -699,6 +786,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"São José",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.6140791,
      "long":-48.6370861
@@ -707,6 +795,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"São Lourenço do Oeste",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.3545259,
      "long":-52.8527049
@@ -715,6 +804,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"São Miguel do Oeste",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.7247058,
      "long":-53.5167732
@@ -723,6 +813,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Schroeder",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.3749827,
      "long":-49.0615086
@@ -731,6 +822,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Sombrio",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-29.0798389,
      "long":-49.67072049999999
@@ -739,6 +831,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Tigrinhos",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.688093,
      "long":-53.1550403
@@ -747,6 +840,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Tijucas",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.240063,
      "long":-48.63361829999999
@@ -755,6 +849,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Timbó",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.8348807,
      "long":-49.2638678
@@ -763,6 +858,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Videira",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-27.0052075,
      "long":-51.15439500000001
@@ -771,6 +867,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Xanxerê",
      "Tipo":"Assistência Social",
+     "tema": "t2",
      "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.8751803,
      "long":-52.4040853
@@ -779,6 +876,7 @@
      "Valor":"R$ 500,000.00",
      "Cidade":"Joinville",
      "Tipo":"Cultura",
+     "tema": "t1",
      "Descrição":"Fomento - Escola Teatro Bolshoi",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -787,6 +885,7 @@
      "Valor":"R$ 300,000.00",
      "Cidade":"Doutor Pedrinho",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Construção de salas de aula",
      "lat":-26.716578,
      "long":-49.4855671
@@ -795,6 +894,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Sul Brasil",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Construção de salas de aula",
      "lat":-26.7184655,
      "long":-52.9385002
@@ -803,6 +903,7 @@
      "Valor":"500,000.00",
      "Cidade":"Joinville",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Equipamentos e incentivo à pesquisa UFSC",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -811,6 +912,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"Águas Mornas",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.743632,
      "long":-48.9202828
@@ -819,6 +921,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Araquari",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.3766505,
      "long":-48.7188884
@@ -827,6 +930,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Armazém",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.2612032,
      "long":-49.0197596
@@ -835,6 +939,7 @@
      "Valor":"R$ 244,500.00",
      "Cidade":"Balneário Piçarras",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.7697853,
      "long":-48.67675699999999
@@ -843,6 +948,7 @@
      "Valor":"R$ 268,950.00",
      "Cidade":"Benedito Novo",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.7825761,
      "long":-49.36438889999999
@@ -851,6 +957,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Biguaçu",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.4955748,
      "long":-48.65536849999999
@@ -859,6 +966,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -867,6 +975,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Bom Jardim da Serra",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.3403994,
      "long":-49.6262464
@@ -875,6 +984,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Bom Retiro",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.8186676,
      "long":-49.5687416
@@ -883,6 +993,7 @@
      "Valor":"R$ 186,400.00",
      "Cidade":"Bombinhas",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.1466465,
      "long":-48.5054577
@@ -891,6 +1002,7 @@
      "Valor":"R$ 726,300.00",
      "Cidade":"Caçador",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.7761609,
      "long":-51.0124989
@@ -899,6 +1011,7 @@
      "Valor":"R$ 139,000.00",
      "Cidade":"Camboriú",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.9930938,
      "long":-48.6356285
@@ -907,6 +1020,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Camboriú",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.9930938,
      "long":-48.6356285
@@ -915,6 +1029,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"Camboriú",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.9930938,
      "long":-48.6356285
@@ -923,6 +1038,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"Campos Novos",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.4009891,
      "long":-51.2258597
@@ -931,6 +1047,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Canelinha",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.2293054,
      "long":-48.8095665
@@ -939,6 +1056,7 @@
      "Valor":"R$ 139,000.00",
      "Cidade":"Canoinhas",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.1887084,
      "long":-50.5549719
@@ -947,6 +1065,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Celso Ramos",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.6618869,
      "long":-51.2422395
@@ -955,6 +1074,7 @@
      "Valor":"R$ 139,000.00",
      "Cidade":"Corupá",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.4355066,
      "long":-49.2452364
@@ -963,6 +1083,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"Corupá",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.4355066,
      "long":-49.2452364
@@ -971,6 +1092,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Criciúma",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.6727702,
      "long":-49.3733771
@@ -979,6 +1101,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Entre Rios",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.7416528,
      "long":-52.5852334
@@ -987,6 +1110,7 @@
      "Valor":"R$ 242,100.00",
      "Cidade":"Forquilhinha",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.7477963,
      "long":-49.4745059
@@ -995,6 +1119,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Garuva",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.0296737,
      "long":-48.8555034
@@ -1003,6 +1128,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"Governador Celso Ramos",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.3159368,
      "long":-48.5571297
@@ -1011,6 +1137,7 @@
      "Valor":"R$ 139,000.00",
      "Cidade":"Guaramirim",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.4743278,
      "long":-49.0023
@@ -1019,6 +1146,7 @@
      "Valor":"R$ 244,500.00",
      "Cidade":"Guarujá do Sul",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.3998206,
      "long":-53.4986586
@@ -1027,6 +1155,7 @@
      "Valor":"R$ 244,500.00",
      "Cidade":"Ibicaré",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.1075494,
      "long":-51.3679914
@@ -1035,6 +1164,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Ibirama",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.01139,
      "long":-49.5483671
@@ -1043,6 +1173,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Ilhota",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.8493716,
      "long":-48.8598651
@@ -1051,6 +1182,7 @@
      "Valor":"R$ 244,500.00",
      "Cidade":"Imbituba",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.227627,
      "long":-48.6691286
@@ -1059,6 +1191,7 @@
      "Valor":"R$ 739,372.80",
      "Cidade":"Indaial",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.8997445,
      "long":-49.2358981
@@ -1067,6 +1200,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Irani",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.0440136,
      "long":-51.9156992
@@ -1075,6 +1209,7 @@
      "Valor":"R$ 211,500.00",
      "Cidade":"Irineópolis",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.2429228,
      "long":-50.795168
@@ -1083,6 +1218,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Itá",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.2647693,
      "long":-52.329411
@@ -1091,6 +1227,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Itapema",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.0960682,
      "long":-48.6178074
@@ -1099,6 +1236,7 @@
      "Valor":"R$ 139,000.00",
      "Cidade":"Itapoá",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.0799326,
      "long":-48.6589406
@@ -1107,6 +1245,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Lebon Régis",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.8761329,
      "long":-50.72089889999999
@@ -1115,6 +1254,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Lontras",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.1688504,
      "long":-49.535533
@@ -1123,6 +1263,7 @@
      "Valor":"R$ 214,823.00",
      "Cidade":"Lontras",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.1688504,
      "long":-49.535533
@@ -1131,6 +1272,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Macieira",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.7892652,
      "long":-51.3679914
@@ -1139,6 +1281,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Massaranduba",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.6119534,
      "long":-49.0075714
@@ -1147,6 +1290,7 @@
      "Valor":"R$ 268,950.00",
      "Cidade":"Massaranduba",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.6119534,
      "long":-49.0075714
@@ -1155,6 +1299,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Morro da Fumaça",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.6540002,
      "long":-49.2120154
@@ -1163,6 +1308,7 @@
      "Valor":"R$ 244,500.00",
      "Cidade":"Navegantes",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.8947924,
      "long":-48.6550692
@@ -1171,6 +1317,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Nova Trento",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.2836385,
      "long":-48.9167729
@@ -1179,6 +1326,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Otacílio Costa",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.4794141,
      "long":-50.1236024
@@ -1187,6 +1335,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"Otacílio Costa",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.4794141,
      "long":-50.1236024
@@ -1195,6 +1344,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Papanduva",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.41002,
      "long":-50.1329815
@@ -1203,6 +1353,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Papanduva",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.41002,
      "long":-50.1329815
@@ -1211,6 +1362,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Passos Maia",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.7239862,
      "long":-51.9791849
@@ -1219,6 +1371,7 @@
      "Valor":"R$ 244,500.00",
      "Cidade":"Penha",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.7744186,
      "long":-48.64368959999999
@@ -1227,6 +1380,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Pescaria Brava",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.3966251,
      "long":-48.8864246
@@ -1235,6 +1389,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Praia Grande",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-29.1950509,
      "long":-49.9518762
@@ -1243,6 +1398,7 @@
      "Valor":"R$ 227,781.00",
      "Cidade":"Rancho Queimado",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.6735087,
      "long":-49.0124511
@@ -1251,6 +1407,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"Riqueza",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.0658084,
      "long":-53.3269662
@@ -1259,6 +1416,7 @@
      "Valor":"R$ 242,100.00",
      "Cidade":"Rodeio",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.9243784,
      "long":-49.3688265
@@ -1267,6 +1425,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Salto Veloso",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.895893,
      "long":-51.4519605
@@ -1275,6 +1434,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Sangão",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.633142,
      "long":-49.1326689
@@ -1283,6 +1443,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Santa Rosa de Lima",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.0122447,
      "long":-49.1828385
@@ -1291,6 +1452,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"São Bento do Sul",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.2500365,
      "long":-49.3835566
@@ -1299,6 +1461,7 @@
      "Valor":"R$ 186,400.00",
      "Cidade":"São Bernardino",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.4889617,
      "long":-52.9814383
@@ -1307,6 +1470,7 @@
      "Valor":"R$ 268,950.00",
      "Cidade":"São João do Itaperiú",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.6188986,
      "long":-48.7675293
@@ -1315,6 +1479,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"São João do Itaperiú",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.6188986,
      "long":-48.7675293
@@ -1323,6 +1488,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"São José",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.6140791,
      "long":-48.6370861
@@ -1331,6 +1497,7 @@
      "Valor":"R$ 244,500.00",
      "Cidade":"São Miguel da Boa Vista",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.6874436,
      "long":-53.251619
@@ -1339,6 +1506,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Schroeder",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.3749827,
      "long":-49.0615086
@@ -1347,6 +1515,7 @@
      "Valor":"R$ 268,950.00",
      "Cidade":"Schroeder",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.3749827,
      "long":-49.0615086
@@ -1355,6 +1524,7 @@
      "Valor":"R$ 249,740.00",
      "Cidade":"Schroeder",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.3749827,
      "long":-49.0615086
@@ -1363,6 +1533,7 @@
      "Valor":"R$ 227,780.00",
      "Cidade":"Sul Brasil",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.7184655,
      "long":-52.9385002
@@ -1371,6 +1542,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Taió",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.1159847,
      "long":-49.9961505
@@ -1379,6 +1551,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Tigrinhos",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.688093,
      "long":-53.1550403
@@ -1387,6 +1560,7 @@
      "Valor":"R$ 259,250.00",
      "Cidade":"Timbó",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.8348807,
      "long":-49.2638678
@@ -1395,6 +1569,7 @@
      "Valor":"R$ 242,200.00",
      "Cidade":"Timbó",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.8348807,
      "long":-49.2638678
@@ -1403,6 +1578,7 @@
      "Valor":"R$ 268,950.00",
      "Cidade":"Treze de Maio",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-28.5787234,
      "long":-49.1423666
@@ -1411,6 +1587,7 @@
      "Valor":"R$ 244,500.00",
      "Cidade":"Treze Tílias",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-26.9998302,
      "long":-51.40889199999999
@@ -1419,6 +1596,7 @@
      "Valor":"R$ 148,900.00",
      "Cidade":"Trombudo Central",
      "Tipo":"Educação",
+     "tema": "t6",
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.3117605,
      "long":-49.8240194
@@ -1427,6 +1605,7 @@
      "Valor":"R$ 6,000,000.00",
      "Cidade":"Palhoça",
      "Tipo":"Esporte",
+     "tema": "t1",
      "Descrição":"Ginásio de esportes em escola estadual",
      "lat":-27.6466202,
      "long":-48.6703613
@@ -1435,6 +1614,7 @@
      "Valor":"R$ 2,965,600.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Construção da Via Verde",
      "lat":-26.4822209,
      "long":-49.073477
@@ -1443,6 +1623,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Rio Negrinho",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.2499033,
      "long":-49.51806699999999
@@ -1451,6 +1632,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Araquari",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.3766505,
      "long":-48.7188884
@@ -1459,6 +1641,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Balneário Piçarras",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.7697853,
      "long":-48.67675699999999
@@ -1467,6 +1650,7 @@
      "Valor":"R$ 493,100.00",
      "Cidade":"Campos Novos",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.4009891,
      "long":-51.2258597
@@ -1475,6 +1659,7 @@
      "Valor":"R$ 400,000.00",
      "Cidade":"Concórdia",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.2331134,
      "long":-52.0275531
@@ -1483,6 +1668,7 @@
      "Valor":"R$ 260,284.06",
      "Cidade":"Gravatal",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-28.3262566,
      "long":-49.0446853
@@ -1491,6 +1677,7 @@
      "Valor":"R$ 245,850.00",
      "Cidade":"Guaramirim",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.4743278,
      "long":-49.0023
@@ -1499,6 +1686,7 @@
      "Valor":"R$ 245,850.00",
      "Cidade":"Guaramirim",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.4743278,
      "long":-49.0023
@@ -1507,6 +1695,7 @@
      "Valor":"R$ 295,300.00",
      "Cidade":"Imbituba",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-28.227627,
      "long":-48.6691286
@@ -1515,6 +1704,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Indaial",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.8997445,
      "long":-49.2358981
@@ -1523,6 +1713,7 @@
      "Valor":"R$ 245,850.00",
      "Cidade":"Irineópolis",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.2429228,
      "long":-50.795168
@@ -1531,6 +1722,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Irineópolis",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.2429228,
      "long":-50.795168
@@ -1539,6 +1731,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Ituporanga",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.4410179,
      "long":-49.5483671
@@ -1547,6 +1740,7 @@
      "Valor":"R$ 300,000.00",
      "Cidade":"Joaçaba",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.1743773,
      "long":-51.5054475
@@ -1555,6 +1749,7 @@
      "Valor":"R$ 350,000.00",
      "Cidade":"Major Gercino",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.4398664,
      "long":-49.1019233
@@ -1563,6 +1758,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Maracajá",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-28.8468405,
      "long":-49.4610376
@@ -1571,6 +1767,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Monte Carlo",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.1555133,
      "long":-50.9080913
@@ -1579,6 +1776,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Monte Castelo",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.4596996,
      "long":-50.2308371
@@ -1587,6 +1785,7 @@
      "Valor":"R$ 400,000.00",
      "Cidade":"Navegantes",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.8947924,
      "long":-48.6550692
@@ -1595,6 +1794,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Nova Veneza",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-28.701244,
      "long":-49.5891233
@@ -1603,6 +1803,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Pinhalzinho",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.8526671,
      "long":-52.9814383
@@ -1611,6 +1812,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Pomerode",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.7376205,
      "long":-49.17436259999999
@@ -1619,6 +1821,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Porto União",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.2389124,
      "long":-51.0817102
@@ -1627,6 +1830,7 @@
      "Valor":"R$ 300,000.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -1635,6 +1839,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Santo Amaro da Imperatriz",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.6856839,
      "long":-48.7817857
@@ -1643,6 +1848,7 @@
      "Valor":"R$ 245,850.00",
      "Cidade":"São José do Cedro",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.4938429,
      "long":-53.5419225
@@ -1651,6 +1857,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Schroeder",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-26.3749827,
      "long":-49.0615086
@@ -1659,6 +1866,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Taió",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-27.1159847,
      "long":-49.9961505
@@ -1667,6 +1875,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Urubici",
      "Tipo":"Infraestrutura",
+     "tema": "t5",
      "Descrição":"Pavimentação de vias urbanas",
      "lat":-28.0071174,
      "long":-49.5894682
@@ -1675,6 +1884,7 @@
      "Valor":"R$ 80.000,00",
      "Cidade":"Abdon Batista",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.5926789,
      "long":-51.03319330000001
@@ -1683,6 +1893,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Agrolândia",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.4229369,
      "long":-49.83425339999999
@@ -1691,6 +1902,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Águas de Chapecó",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.0759093,
      "long":-52.98111309999999
@@ -1699,6 +1911,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Alto Bela Vista",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.4300922,
      "long":-51.90512409999999
@@ -1707,6 +1920,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Arroio Trinta",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.9283452,
      "long":-51.3365307
@@ -1715,6 +1929,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Balneário Barra do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.4600177,
      "long":-48.6109443
@@ -1723,6 +1938,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Barra Velha",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.6331439,
      "long":-48.6846608
@@ -1731,6 +1947,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Bom Jesus",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.7352192,
      "long":-52.39083669999999
@@ -1739,6 +1956,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Calmon",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.6026232,
      "long":-51.0985075
@@ -1747,6 +1965,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Campo Alegre",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.1447959,
      "long":-49.2435998
@@ -1755,6 +1974,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Campo Erê",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.3942706,
      "long":-53.0791871
@@ -1763,6 +1983,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Canoinhas",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.1887084,
      "long":-50.5549719
@@ -1771,6 +1992,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Capão Alto",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-28.0571108,
      "long":-50.5964124
@@ -1779,6 +2001,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Dona Emma",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.9864675,
      "long":-49.7243368
@@ -1787,6 +2010,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Garuva",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.0296737,
      "long":-48.8555034
@@ -1795,6 +2019,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Guatambú",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.1096761,
      "long":-52.7670021
@@ -1803,6 +2028,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Iraceminha",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.8353038,
      "long":-53.3258513
@@ -1811,6 +2037,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Itapoá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.0799326,
      "long":-48.6589406
@@ -1819,6 +2046,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Lajeado Grande",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.8580997,
      "long":-52.5652895
@@ -1827,6 +2055,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Leoberto Leal",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.4581992,
      "long":-49.2638678
@@ -1835,6 +2064,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Lindóia do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.0442374,
      "long":-52.0427297
@@ -1843,6 +2073,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Major Vieira",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.4635693,
      "long":-50.3688312
@@ -1851,6 +2082,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Maracajá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-28.8468405,
      "long":-49.4610376
@@ -1859,6 +2091,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Massaranduba",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.6119534,
      "long":-49.0075714
@@ -1867,6 +2100,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Mirim Doce",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.1822906,
      "long":-50.1626664
@@ -1875,6 +2109,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Monte Castelo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.4596996,
      "long":-50.2308371
@@ -1883,6 +2118,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Navegantes",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.8947924,
      "long":-48.6550692
@@ -1891,6 +2127,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Nova Erechim",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.8986436,
      "long":-52.9070793
@@ -1899,6 +2136,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Nova Itaberaba",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.9616795,
      "long":-52.8098384
@@ -1907,6 +2145,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Ouro Verde",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.72313,
      "long":-52.2974988
@@ -1915,6 +2154,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Paial",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.2545922,
      "long":-52.4980258
@@ -1923,6 +2163,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Painel",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.9902254,
      "long":-50.059845
@@ -1931,6 +2172,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Papanduva",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.41002,
      "long":-50.1329815
@@ -1939,6 +2181,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Pedras Grandes",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-28.4919629,
      "long":-49.22333889999999
@@ -1947,6 +2190,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Peritiba",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.3759387,
      "long":-51.9022977
@@ -1955,6 +2199,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Pomerode",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.7376205,
      "long":-49.17436259999999
@@ -1963,6 +2208,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Ponte Alta do Norte",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.1604981,
      "long":-50.3894858
@@ -1971,6 +2217,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Praia Grande",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-29.1950509,
      "long":-49.9518762
@@ -1979,6 +2226,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Rancho Queimado",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.6735087,
      "long":-49.0124511
@@ -1987,6 +2235,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Rio dos Cedros",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.7435083,
      "long":-49.27435759999999
@@ -1995,6 +2244,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Santa Helena",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":32.433535,
      "long":-80.67898799999999
@@ -2003,6 +2253,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"São João do Itaperiú",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.6188986,
      "long":-48.7675293
@@ -2011,6 +2262,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"São Martinho",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-28.109123,
      "long":-49.0211225
@@ -2019,6 +2271,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Schroeder",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.3749827,
      "long":-49.0615086
@@ -2027,6 +2280,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Seara",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-27.1377719,
      "long":-52.3400517
@@ -2035,6 +2289,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Serra Alta",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.7233815,
      "long":-53.0413806
@@ -2043,6 +2298,7 @@
      "Valor":"R$ 170,000.00",
      "Cidade":"Três Barras",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-26.1265438,
      "long":-50.3142152
@@ -2051,6 +2307,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Turvo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulância para o município",
      "lat":-28.9278045,
      "long":-49.68203459999999
@@ -2059,6 +2316,7 @@
      "Valor":"R$ 340,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulâncias para o município",
      "lat":-26.4822209,
      "long":-49.073477
@@ -2067,6 +2325,7 @@
      "Valor":"R$ 340,000.00",
      "Cidade":"Joinville",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Ambulâncias para o município",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -2075,6 +2334,7 @@
      "Valor":"R$ 160,000.00",
      "Cidade":"Porto União",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Compra de equipamentos para Saúde",
      "lat":-26.2389124,
      "long":-51.0817102
@@ -2083,6 +2343,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. Fund. Hospitalar de Blumenau",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2091,6 +2352,7 @@
      "Valor":"R$ 430,000.00",
      "Cidade":"Chapecó",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Assoc. Hosp. Lenoir Vargas Ferreira",
      "lat":-27.1009343,
      "long":-52.615699
@@ -2099,6 +2361,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Chapecó",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Assoc. Hosp. Lenoir Vargas Ferreira",
      "lat":-27.1009343,
      "long":-52.615699
@@ -2107,6 +2370,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Chapecó",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Assoc. Hosp. Lenoir Vargas Ferreira",
      "lat":-27.1009343,
      "long":-52.615699
@@ -2115,6 +2379,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Orleans",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Fund. Hosp. Santa Otília",
      "lat":-28.3576607,
      "long":-49.2885418
@@ -2123,6 +2388,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Descanso",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Fund. Med. Hosp. Trabalhadores Rurais",
      "lat":-26.8464426,
      "long":-53.4986586
@@ -2131,6 +2397,7 @@
      "Valor":"R$ 293,447.67",
      "Cidade":"Florianópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Fundo Municipal de Saúde",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -2139,6 +2406,7 @@
      "Valor":"R$ 219,940.00",
      "Cidade":"São José",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Fundo Municipal de Saúde",
      "lat":-27.6140791,
      "long":-48.6370861
@@ -2147,6 +2415,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Pinhalzinho",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Beneficente Pinhalzinho",
      "lat":-26.8526671,
      "long":-52.9814383
@@ -2155,6 +2424,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Joinville",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Bethesda",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -2163,6 +2433,7 @@
      "Valor":"R$ 450,000.00",
      "Cidade":"Joinville",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Bethesda",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -2171,6 +2442,7 @@
      "Valor":"R$ 559,768.00",
      "Cidade":"Joinville",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Bethesda",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -2179,6 +2451,7 @@
      "Valor":"R$ 141,000.00",
      "Cidade":"Ituporanga",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Bom Jesus",
      "lat":-27.4410179,
      "long":-49.5483671
@@ -2187,6 +2460,7 @@
      "Valor":"R$ 500,000.00",
      "Cidade":"Florianópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. de Caridade",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -2195,6 +2469,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Florianópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. de Caridade",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -2203,6 +2478,7 @@
      "Valor":"R$ 300,000.00",
      "Cidade":"Florianópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. de Caridade",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -2211,6 +2487,7 @@
      "Valor":"R$ 199,980.00",
      "Cidade":"Presidente Getúlio",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Mat. Maria Auxiliadora",
      "lat":-27.1067082,
      "long":-49.7115614
@@ -2219,6 +2496,7 @@
      "Valor":"R$ 300,000.00",
      "Cidade":"Itajaí",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Mat. Marieta K. Bornhausen",
      "lat":-26.9107052,
      "long":-48.6709133
@@ -2227,6 +2505,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Itajaí",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Mat. Marieta K. Bornhausen",
      "lat":-26.9107052,
      "long":-48.6709133
@@ -2235,6 +2514,7 @@
      "Valor":"R$ 300,000.00",
      "Cidade":"Itajaí",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Mat. Marieta K. Bornhausen",
      "lat":-26.9107052,
      "long":-48.6709133
@@ -2243,6 +2523,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"São Bento do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Mat. Sagrada Família",
      "lat":-26.2500365,
      "long":-49.3835566
@@ -2251,6 +2532,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"São Bento do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Mat. Sagrada Família",
      "lat":-26.2500365,
      "long":-49.3835566
@@ -2259,6 +2541,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"São Bento do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Mat. Sagrada Família",
      "lat":-26.2500365,
      "long":-49.3835566
@@ -2267,6 +2550,7 @@
      "Valor":"R$ 1,000,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Maternidade Jaraguá",
      "lat":-26.4822209,
      "long":-49.073477
@@ -2275,6 +2559,7 @@
      "Valor":"R$ 1,500,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Maternidade Jaraguá",
      "lat":-26.4822209,
      "long":-49.073477
@@ -2283,6 +2568,7 @@
      "Valor":"R$ 294,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Maternidade Jaraguá",
      "lat":-26.4822209,
      "long":-49.073477
@@ -2291,6 +2577,7 @@
      "Valor":"",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Maternidade Jaraguá",
      "lat":-26.4822209,
      "long":-49.073477
@@ -2299,6 +2586,7 @@
      "Valor":"R$ 500,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Maternidade São José",
      "lat":-26.4822209,
      "long":-49.073477
@@ -2307,6 +2595,7 @@
      "Valor":"R$ 1,000,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Maternidade São José",
      "lat":-26.4822209,
      "long":-49.073477
@@ -2315,6 +2604,7 @@
      "Valor":"R$ 500,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Maternidade São José",
      "lat":-26.4822209,
      "long":-49.073477
@@ -2323,6 +2613,7 @@
      "Valor":"R$ 54,000.00",
      "Cidade":"Lages",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. e Maternidade Teresa Ramos",
      "lat":-27.8157141,
      "long":-50.3263964
@@ -2331,6 +2622,7 @@
      "Valor":"R$ 355,000.00",
      "Cidade":"Florianópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Infantil Joana de Gusmão",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -2339,6 +2631,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Caçador",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Maicé",
      "lat":-26.7761609,
      "long":-51.0124989
@@ -2347,6 +2640,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Caçador",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Maicé",
      "lat":-26.7761609,
      "long":-51.0124989
@@ -2355,6 +2649,7 @@
      "Valor":"R$ 93,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Miseric. Vila Itoupava",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2363,6 +2658,7 @@
      "Valor":"R$ 300,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Miseric. Vila Itoupava",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2371,6 +2667,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Miseric. Vila Itoupava",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2379,6 +2676,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Miseric. Vila Itoupava",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2387,6 +2685,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Tubarão",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. N. S. da Conceição",
      "lat":-28.471976,
      "long":-49.0147244
@@ -2395,6 +2694,7 @@
      "Valor":"R$ 137,963.00",
      "Cidade":"Urussanga",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. N. S. da Conceição",
      "lat":-28.525676,
      "long":-49.3215835
@@ -2403,6 +2703,7 @@
      "Valor":"R$ 382,000.00",
      "Cidade":"São José",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Reg. Dr. Romero M. Gomes",
      "lat":-27.6140791,
      "long":-48.6370861
@@ -2411,6 +2712,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Xanxerê",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Reg. São Paulo",
      "lat":-26.8751803,
      "long":-52.4040853
@@ -2419,6 +2721,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Videira",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Salvatoriano Divino Salvador",
      "lat":-27.0052075,
      "long":-51.15439500000001
@@ -2427,6 +2730,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Videira",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Salvatoriano Divino Salvador",
      "lat":-27.0052075,
      "long":-51.15439500000001
@@ -2435,6 +2739,7 @@
      "Valor":"R$ 500,000.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Samaria",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -2443,6 +2748,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Samaria",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -2451,6 +2757,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Samaria",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -2459,6 +2766,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Samaria",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -2467,6 +2775,7 @@
      "Valor":"R$ 130,000.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Samaria",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -2475,6 +2784,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Santa Isabel",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2483,6 +2793,7 @@
      "Valor":"R$ 500,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Santa Isabel",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2491,6 +2802,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Santa Isabel",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2499,6 +2811,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. Santa Isabel",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -2507,6 +2820,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Porto União",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. São Braz",
      "lat":-26.2389124,
      "long":-51.0817102
@@ -2515,6 +2829,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Porto União",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. São Braz",
      "lat":-26.2389124,
      "long":-51.0817102
@@ -2523,6 +2838,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Porto União",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. São Braz",
      "lat":-26.2389124,
      "long":-51.0817102
@@ -2531,6 +2847,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Imbituba",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. São Camilo",
      "lat":-28.227627,
      "long":-48.6691286
@@ -2539,6 +2856,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Campo Alegre",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. São Luiz",
      "lat":-26.1447959,
      "long":-49.2435998
@@ -2547,6 +2865,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Mafra",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. São Vicente de Paulo",
      "lat":-26.1164276,
      "long":-49.8091065
@@ -2555,6 +2874,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Mafra",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Hosp. São Vicente de Paulo",
      "lat":-26.1164276,
      "long":-49.8091065
@@ -2563,6 +2883,7 @@
      "Valor":"R$ 54,000.00",
      "Cidade":"São José",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Instituto de Cardiologia",
      "lat":-27.6140791,
      "long":-48.6370861
@@ -2571,6 +2892,7 @@
      "Valor":"R$ 58,000.00",
      "Cidade":"Florianópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Maternidade Carmela Dutra",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -2579,6 +2901,7 @@
      "Valor":"R$ 28,800.00",
      "Cidade":"Joinville",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Maternidade Darcy Vargas",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -2587,6 +2910,7 @@
      "Valor":"R$ 60,000.00",
      "Cidade":"Mafra",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Maternidade Dona Catarina Kuss",
      "lat":-26.1164276,
      "long":-49.8091065
@@ -2595,6 +2919,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Brasília (DF)",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equip. para Rede Sarah Kubitschek",
      "lat":-15.780862,
      "long":-47.89032
@@ -2603,6 +2928,7 @@
      "Valor":"R$ 500,000.00",
      "Cidade":"Chapecó",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos na Saúde",
      "lat":-27.1009343,
      "long":-52.615699
@@ -2611,6 +2937,7 @@
      "Valor":"R$ 90,000.00",
      "Cidade":"Indaial",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos na Saúde",
      "lat":-26.8997445,
      "long":-49.2358981
@@ -2619,6 +2946,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Angelina",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.5733389,
      "long":-48.9843647
@@ -2627,6 +2955,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Arabutã",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.1644807,
      "long":-52.1699966
@@ -2635,6 +2964,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Arvoredo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.0753028,
      "long":-52.4547676
@@ -2643,6 +2973,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Atalanta",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.4224135,
      "long":-49.7793508
@@ -2651,6 +2982,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Aurora",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":33.57257,
      "long":-81.760726
@@ -2659,6 +2991,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Botuverá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.2208816,
      "long":-49.1423666
@@ -2667,6 +3000,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Braço do Trombudo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.3590749,
      "long":-49.88263329999999
@@ -2675,6 +3009,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Brunópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.33955,
      "long":-50.8664451
@@ -2683,6 +3018,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Campo Belo do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.8518037,
      "long":-50.8040271
@@ -2691,6 +3027,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Campo Erê",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.3942706,
      "long":-53.0791871
@@ -2699,6 +3036,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Cerro Negro",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.7881092,
      "long":-50.9080913
@@ -2707,6 +3045,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Cunhataí",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.9714081,
      "long":-53.0899861
@@ -2715,6 +3054,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Ermo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-28.984951,
      "long":-49.6423481
@@ -2723,6 +3063,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Grão-Pará",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-28.1855061,
      "long":-49.21636549999999
@@ -2731,6 +3072,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Ibiam",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.2053765,
      "long":-51.2108394
@@ -2739,6 +3081,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Iomerê",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.0015987,
      "long":-51.2410308
@@ -2747,6 +3090,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Jardinópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.7196201,
      "long":-52.8630332
@@ -2755,6 +3099,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"José Boiteux",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.8438535,
      "long":-49.6299077
@@ -2763,6 +3108,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Jupiá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.3955215,
      "long":-52.7302727
@@ -2771,6 +3117,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Lacerdópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.2616402,
      "long":-51.55696039999999
@@ -2779,6 +3126,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Luzerna",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.1310356,
      "long":-51.4683568
@@ -2787,6 +3135,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Marema",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.8151832,
      "long":-52.6279608
@@ -2795,6 +3144,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Morro Grande",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-28.8010724,
      "long":-49.7218556
@@ -2803,6 +3153,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Palmeira",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.574998,
      "long":-50.1626664
@@ -2811,6 +3162,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Petrolândia",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.5617364,
      "long":-49.67072049999999
@@ -2819,6 +3171,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Planalto Alegre",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.0709083,
      "long":-52.86750079999999
@@ -2827,6 +3180,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Presidente Castelo Branco",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.2298455,
      "long":-51.7783509
@@ -2835,6 +3189,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Presidente Nereu",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.2919851,
      "long":-49.34501119999999
@@ -2843,6 +3198,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Princesa",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.4446006,
      "long":-53.5999406
@@ -2851,6 +3207,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Saltinho",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.5827752,
      "long":-53.0244018
@@ -2859,6 +3216,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"São Bonifácio",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.9000547,
      "long":-48.9301492
@@ -2867,6 +3225,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"São João do Oeste",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.0751346,
      "long":-53.5852111
@@ -2875,6 +3234,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"São Pedro de Alcântara",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.5670164,
      "long":-48.8052483
@@ -2883,6 +3243,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Treviso",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-28.5140795,
      "long":-49.4573761
@@ -2891,6 +3252,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Urupema",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.9545386,
      "long":-49.8766717
@@ -2899,6 +3261,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Vargeão",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.7371687,
      "long":-52.0851258
@@ -2907,6 +3270,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Vargem Bonita",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.9503308,
      "long":-51.7466948
@@ -2915,6 +3279,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Witmarsum",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-26.9415411,
      "long":-49.91618860000001
@@ -2923,6 +3288,7 @@
      "Valor":"R$ 25,000.00",
      "Cidade":"Zortéa",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Equipamentos para consultórios odontológicos",
      "lat":-27.4802473,
      "long":-51.5360368
@@ -2931,6 +3297,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Içara",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Fund. Social Hospitalar de Içara",
      "lat":-28.7137096,
      "long":-49.3091437
@@ -2939,6 +3306,7 @@
      "Valor":"R$ 1,000,000.00",
      "Cidade":"Joinville",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Invest. para Fundo Municipal de Saúde",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -2947,6 +3315,7 @@
      "Valor":"R$ 199,995.00",
      "Cidade":"Lontras",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Invest. para Fundo Municipal de Saúde",
      "lat":-27.1688504,
      "long":-49.535533
@@ -2955,6 +3324,7 @@
      "Valor":"R$ 109,675.00",
      "Cidade":"Palhoça",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Invest. para Fundo Municipal de Saúde",
      "lat":-27.6466202,
      "long":-48.6703613
@@ -2963,6 +3333,7 @@
      "Valor":"R$ 121,500.00",
      "Cidade":"Palhoça",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Invest. para Fundo Municipal de Saúde",
      "lat":-27.6466202,
      "long":-48.6703613
@@ -2971,6 +3342,7 @@
      "Valor":"R$ 220,000.00",
      "Cidade":"Araquari",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para cirurgias de alta complexidade",
      "lat":-26.3766505,
      "long":-48.7188884
@@ -2979,6 +3351,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Corupá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para cirurgias de alta complexidade",
      "lat":-26.4355066,
      "long":-49.2452364
@@ -2987,6 +3360,7 @@
      "Valor":"R$ 220,000.00",
      "Cidade":"Guaramirim",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para cirurgias de alta complexidade",
      "lat":-26.4743278,
      "long":-49.0023
@@ -2995,6 +3369,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Irineópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para cirurgias de alta complexidade",
      "lat":-26.2429228,
      "long":-50.795168
@@ -3003,6 +3378,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Mafra",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para cirurgias de alta complexidade",
      "lat":-26.1164276,
      "long":-49.8091065
@@ -3011,6 +3387,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Rio Negrinho",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para cirurgias de alta complexidade",
      "lat":-26.2499033,
      "long":-49.51806699999999
@@ -3019,6 +3396,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"São Francisco do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para cirurgias de alta complexidade",
      "lat":-26.2490884,
      "long":-48.6346216
@@ -3027,6 +3405,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio do Hosp. Jaraguá",
      "lat":-26.4822209,
      "long":-49.073477
@@ -3035,6 +3414,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio do Hosp. São José",
      "lat":-26.4822209,
      "long":-49.073477
@@ -3043,6 +3423,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Campo Alegre",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio do Hosp. São Luiz",
      "lat":-26.1447959,
      "long":-49.2435998
@@ -3051,6 +3432,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Agronômica",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.264728,
      "long":-49.7112246
@@ -3059,6 +3441,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Água Doce",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.9989361,
      "long":-51.553311
@@ -3067,6 +3450,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Águas de Chapecó",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.0759093,
      "long":-52.98111309999999
@@ -3075,6 +3459,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Águas de Chapecó",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.0759093,
      "long":-52.98111309999999
@@ -3083,6 +3468,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Anitápolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.9016844,
      "long":-49.1321175
@@ -3091,6 +3477,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Araquari",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.3766505,
      "long":-48.7188884
@@ -3099,6 +3486,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Ascurra",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.957609,
      "long":-49.3748348
@@ -3107,6 +3495,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Balneário Barra do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.4600177,
      "long":-48.6109443
@@ -3115,6 +3504,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Bela Vista do Toldo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.3988859,
      "long":-50.4721736
@@ -3123,6 +3513,7 @@
      "Valor":"R$ 49,701.00",
      "Cidade":"Bela Vista do Toldo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.3988859,
      "long":-50.4721736
@@ -3131,6 +3522,7 @@
      "Valor":"R$ 80,000.00",
      "Cidade":"Belmonte",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.843476,
      "long":-53.5763252
@@ -3139,6 +3531,7 @@
      "Valor":"R$ 500,000.00",
      "Cidade":"Blumenau",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.9165792,
      "long":-49.0717331
@@ -3147,6 +3540,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Bom Jesus do oeste",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.6762242,
      "long":-53.09964859999999
@@ -3155,6 +3549,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Bombinhas",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.1466465,
      "long":-48.5054577
@@ -3163,6 +3558,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Braço do Norte",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.2728323,
      "long":-49.1676018
@@ -3171,6 +3567,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Caçador",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.7761609,
      "long":-51.0124989
@@ -3179,6 +3576,7 @@
      "Valor":"R$ 95,000.00",
      "Cidade":"Campos Novos",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.4009891,
      "long":-51.2258597
@@ -3187,6 +3585,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Canoinhas",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.1887084,
      "long":-50.5549719
@@ -3195,6 +3594,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Canoinhas",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.1887084,
      "long":-50.5549719
@@ -3203,6 +3603,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Chapadão do Lageado",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.5580709,
      "long":-49.5483671
@@ -3211,6 +3612,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Corupá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.4355066,
      "long":-49.2452364
@@ -3219,6 +3621,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Criciúma",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.6727702,
      "long":-49.3733771
@@ -3227,6 +3630,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Entre Rios",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.7416528,
      "long":-52.5852334
@@ -3235,6 +3639,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Florianópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -3243,6 +3648,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Florianópolis",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.5948698,
      "long":-48.54821949999999
@@ -3251,6 +3657,7 @@
      "Valor":"R$ 62,500.00",
      "Cidade":"Fraiburgo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.0235945,
      "long":-50.9223466
@@ -3259,6 +3666,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Governador Celso Ramos",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.3159368,
      "long":-48.5571297
@@ -3267,6 +3675,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Guaraciaba",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.5878901,
      "long":-53.5852111
@@ -3275,6 +3684,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Guaramirim",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.4743278,
      "long":-49.0023
@@ -3283,6 +3693,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Iporã do Oeste",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.9880157,
      "long":-53.5346377
@@ -3291,6 +3702,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Itapiranga",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.1698985,
      "long":-53.7108335
@@ -3299,6 +3711,7 @@
      "Valor":"R$ 75,000.00",
      "Cidade":"Itapoá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.0799326,
      "long":-48.6589406
@@ -3307,6 +3720,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Itapoá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.0799326,
      "long":-48.6589406
@@ -3315,6 +3729,7 @@
      "Valor":"R$ 180,000.00",
      "Cidade":"Jaguaruna",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.6504899,
      "long":-49.0211225
@@ -3323,6 +3738,7 @@
      "Valor":"R$ 675,000.00",
      "Cidade":"Jaraguá do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.4822209,
      "long":-49.073477
@@ -3331,6 +3747,7 @@
      "Valor":"R$ 1,000,000.00",
      "Cidade":"Joinville",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -3339,6 +3756,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Laurentino",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.2177919,
      "long":-49.7336055
@@ -3347,6 +3765,7 @@
      "Valor":"R$ 125,000.00",
      "Cidade":"Luiz Alves",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.7137615,
      "long":-48.9123933
@@ -3355,6 +3774,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Macieira",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.7892652,
      "long":-51.3679914
@@ -3363,6 +3783,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Major Gercino",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.4398664,
      "long":-49.1019233
@@ -3371,6 +3792,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Monte Carlo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.1555133,
      "long":-50.9080913
@@ -3379,6 +3801,7 @@
      "Valor":"R$ 84,972.00",
      "Cidade":"Navegantes",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.8947924,
      "long":-48.6550692
@@ -3387,6 +3810,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Nova Trento",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.2836385,
      "long":-48.9167729
@@ -3395,6 +3819,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Novo Horizonte",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.4642211,
      "long":-52.7991269
@@ -3403,6 +3828,7 @@
      "Valor":"R$ 180,000.00",
      "Cidade":"Orleans",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.3576607,
      "long":-49.2885418
@@ -3411,6 +3837,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Palhoça",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.6466202,
      "long":-48.6703613
@@ -3419,6 +3846,7 @@
      "Valor":"R$ 75,000.00",
      "Cidade":"Papanduva",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.41002,
      "long":-50.1329815
@@ -3427,6 +3855,7 @@
      "Valor":"R$ 250,000.00",
      "Cidade":"Paria Grande",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-29.1950509,
      "long":-49.9518762
@@ -3435,6 +3864,7 @@
      "Valor":"R$ 50,000.00",
      "Cidade":"Paulo Lopes",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.9949643,
      "long":-48.7593128
@@ -3443,6 +3873,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Piratuba",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.4197664,
      "long":-51.7752272
@@ -3451,6 +3882,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"Pouso Redondo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.2572341,
      "long":-49.9305975
@@ -3459,6 +3891,7 @@
      "Valor":"R$ 180,000.00",
      "Cidade":"Pouso Redondo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.2572341,
      "long":-49.9305975
@@ -3467,6 +3900,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Rio das Antas",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.893143,
      "long":-51.0749483
@@ -3475,6 +3909,7 @@
      "Valor":"R$ 51,952.00",
      "Cidade":"Rio do Oeste",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.1932662,
      "long":-49.79719890000001
@@ -3483,6 +3918,7 @@
      "Valor":"R$ 125,000.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -3491,6 +3927,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Rio Negrinho",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.2499033,
      "long":-49.51806699999999
@@ -3499,6 +3936,7 @@
      "Valor":"R$ 50,000.00",
      "Cidade":"Santa Terezinha do Progresso",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.6245126,
      "long":-53.2002274
@@ -3507,6 +3945,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Santa Terezinha do Progresso",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.6245126,
      "long":-53.2002274
@@ -3515,6 +3954,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Santiago do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.6392685,
      "long":-52.68035940000001
@@ -3523,6 +3963,7 @@
      "Valor":"R$ 125,000.00",
      "Cidade":"São Bento do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.2500365,
      "long":-49.3835566
@@ -3531,6 +3972,7 @@
      "Valor":"R$ 150,000.00",
      "Cidade":"São Carlos",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.0272704,
      "long":-53.0244018
@@ -3539,6 +3981,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"São João do Itaperiú",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.6188986,
      "long":-48.7675293
@@ -3547,6 +3990,7 @@
      "Valor":"R$ 23,941.00",
      "Cidade":"São João do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-29.2246856,
      "long":-49.8089801
@@ -3555,6 +3999,7 @@
      "Valor":"R$ 125,000.00",
      "Cidade":"São José",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.6140791,
      "long":-48.6370861
@@ -3563,6 +4008,7 @@
      "Valor":"R$ 75,000.00",
      "Cidade":"Saudades",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.8787543,
      "long":-53.06739049999999
@@ -3571,6 +4017,7 @@
      "Valor":"R$ 120,000.00",
      "Cidade":"Timbé do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.829251,
      "long":-49.8425427
@@ -3579,6 +4026,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Timbó",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.8348807,
      "long":-49.2638678
@@ -3587,6 +4035,7 @@
      "Valor":"R$ 50,000.00",
      "Cidade":"Treze de Maio",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.5787234,
      "long":-49.1423666
@@ -3595,6 +4044,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Treze de Maio",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.5787234,
      "long":-49.1423666
@@ -3603,6 +4053,7 @@
      "Valor":"R$ 125,000.00",
      "Cidade":"Tubarão",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.471976,
      "long":-49.0147244
@@ -3611,6 +4062,7 @@
      "Valor":"R$ 50,000.00",
      "Cidade":"Urussanga",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.525676,
      "long":-49.3215835
@@ -3619,6 +4071,7 @@
      "Valor":"R$ 100,000.00",
      "Cidade":"Urussanga",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-28.525676,
      "long":-49.3215835
@@ -3627,6 +4080,7 @@
      "Valor":"R$ 200,000.00",
      "Cidade":"Xavantina",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-27.0174001,
      "long":-52.3400517
@@ -3635,6 +4089,7 @@
      "Valor":"R$ 50,000.00",
      "Cidade":"São Miguel do Oeste",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para Hospital Regional do Oeste",
      "lat":-26.7247058,
      "long":-53.5167732
@@ -3643,6 +4098,7 @@
      "Valor":"R$ 375,000.00",
      "Cidade":"Abelardo Luz",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para custeio na Saúde",
      "lat":-26.5663539,
      "long":-52.327602
@@ -3651,6 +4107,7 @@
      "Valor":"R$ 1,200,000.00",
      "Cidade":"Joinville",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Recursos para reforma",
      "lat":-26.3044084,
      "long":-48.84638320000001
@@ -3659,6 +4116,7 @@
      "Valor":"R$ 280,000.00",
      "Cidade":"Concórdia",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Reforma de unidades básicas de Saúde",
      "lat":-27.2331134,
      "long":-52.0275531
@@ -3667,6 +4125,7 @@
      "Valor":"R$ 190,000.00",
      "Cidade":"Indaial",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Van para transporte de pacientes",
      "lat":-26.8997445,
      "long":-49.2358981
@@ -3675,6 +4134,7 @@
      "Valor":"R$ 190,000.00",
      "Cidade":"Maracajá",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Van para transporte de pacientes",
      "lat":-28.8468405,
      "long":-49.4610376
@@ -3683,6 +4143,7 @@
      "Valor":"R$ 190,000.00",
      "Cidade":"Monte Carlo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Van para transporte de pacientes",
      "lat":-27.1555133,
      "long":-50.9080913
@@ -3691,6 +4152,7 @@
      "Valor":"R$ 190,000.00",
      "Cidade":"Porto União",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Van para transporte de pacientes",
      "lat":-26.2389124,
      "long":-51.0817102
@@ -3699,6 +4161,7 @@
      "Valor":"R$ 190,000.00",
      "Cidade":"Praia Grande",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Van para transporte de pacientes",
      "lat":-29.1950509,
      "long":-49.9518762
@@ -3707,6 +4170,7 @@
      "Valor":"R$ 190,000.00",
      "Cidade":"São Carlos",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Van para transporte de pacientes",
      "lat":-27.0272704,
      "long":-53.0244018
@@ -3715,6 +4179,7 @@
      "Valor":"R$ 380,000.00",
      "Cidade":"Concórdia",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Vans para transporte de pacientes",
      "lat":-27.2331134,
      "long":-52.0275531
@@ -3723,6 +4188,7 @@
      "Valor":"R$ 340,000.00",
      "Cidade":"Concórdia",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Vans para transporte de pacientes",
      "lat":-27.2331134,
      "long":-52.0275531
@@ -3731,6 +4197,7 @@
      "Valor":"R$ 380,000.00",
      "Cidade":"Rio do Sul",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Vans para transporte de pacientes",
      "lat":-27.2160932,
      "long":-49.6435018
@@ -3739,6 +4206,7 @@
      "Valor":"R$ 26,600.00",
      "Cidade":"Quilombo",
      "Tipo":"Saúde",
+     "tema": "t4",
      "Descrição":"Veículo para o  Centro de Referência Especializado de Assistência Social (CREAS)",
      "lat":-26.7338996,
      "long":-52.7241914

@@ -34,7 +34,8 @@ Module('MM.GoogleMaps', function (GoogleMaps){
                   t3: { name: "amarelo", cod: "E1B439" },
                   t4: { name: "vermelho", cod: "C63A3A" },
                   t5: { name: "laranja", cod: "E47D0D" },
-                  t6: { name: "azul", cod: "1694BD" }
+                  t6: { name: "azul", cod: "1694BD" },
+                  t7: { name: "preto", cod: "000000" }
                 };
 
     this.loadScripts();
@@ -73,7 +74,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
   GoogleMaps.fn.config = function(){
     this.google_geocoder = new google.maps.Geocoder();
     this.google_map = new google.maps.Map(this.container, {
-      zoom: 7,
+      zoom: 8,
       scrollwheel: false,
       center: new google.maps.LatLng(-27.6745671, -52.4254512),
       mapTypeId: google.maps.MapTypeId.ROADMAP
@@ -96,7 +97,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
   */
   GoogleMaps.fn.build = function () {
     var _this				= this;
-    this.mcOptions			= {gridSize: 10, maxZoom: 10};
+    this.mcOptions			= {gridSize: 6, maxZoom: 10};
     this.markers			= [];
     this.infowindow			= new InfoBox({
                   content					: "building...",
@@ -121,24 +122,25 @@ Module('MM.GoogleMaps', function (GoogleMaps){
 
     for (var i = this.data_json.length - 1; i >= 0; i--) {
     //for (var i = 0; i < this.data_json.length; i++) {
-      var latLng = new google.maps.LatLng(this.data_json[i].lat, this.data_json[i].long),
+      const item = this.data_json[i];
+      var latLng = new google.maps.LatLng(item.lat, item.long),
         marker = new google.maps.Marker({
           position			: latLng,
           draggable			: false,
-          icon				: new google.maps.MarkerImage(base_url + '../images/mapa/pin/preto.png', new google.maps.Size(25, 34)),
-          title				: this.data_json[i].Cidade,
-          // categories			: this.data_json[i].categories,
-          //horario				: this.data_json[i].horario_de_funcionamento,
-          //endereco			: this.data_json[i].localizacao.address,
-          //link_do_post		: this.data_json[i].link_do_post,
-          //imagem				: this.data_json[i].imagem,
+          icon				: new google.maps.MarkerImage(`${base_url}/../images/mapa/pin/${this.styles[item.tema].name}.png`, new google.maps.Size(25, 34)),
+          title				: item.Tipo,
+          // categories			: item.categories,
+          //horario				: item.horario_de_funcionamento,
+          //endereco			: item.localizacao.address,
+          //link_do_post		: item.link_do_post,
+          //imagem				: item.imagem,
           html: '<div class="block__infobox">'+
                 '<div class="block__infobox--body">'+
                   '<div class="block__infobox--body-overlay"></div>' +
-                  '<img src="' + this.data_json[i].imagem + '" />' +
-                  '<h3>' + this.data_json[i].post_title + '</h3>' +
-                  '<p>' + this.data_json[i].address + '</p>' +
-                  '<span>' + this.data_json[i].horario_de_funcionamento + '</span>' +
+                  '<img src="' + item.imagem + '" />' +
+                  '<h3>' + item.post_title + '</h3>' +
+                  '<p>' + item.address + '</p>' +
+                  '<span>' + item.horario_de_funcionamento + '</span>' +
 
                   '<div class="block__infobox--category">' +
                     '<nav></nav>' +
@@ -146,7 +148,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
 
                   '<div class="block__infobox--content"><span class="loading"></span></div>'+
                   '<div class="block__infobox--foot">'+
-                    '<a class="fechar" href="' + this.data_json[i].link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
+                    '<a class="fechar" href="' + item.link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
                   '</div>'+
                 '</div>'+
                 '<div class="block__infobox--footer"></div>'+
@@ -161,10 +163,10 @@ Module('MM.GoogleMaps', function (GoogleMaps){
           _nav						= $('.block__infobox--category nav', _buildHTML),
           _cat_html					= $('<a href="#this" class="btn btn-default"></a>');
 
-        for (var b = $mevent.categories.length - 1; b >= 0; b--) {
-          _cat_html.text($mevent.categories[b].name).attr('href', $mevent.categories[b].permalink);
-          _cat_html.appendTo(_nav);
-        }
+        // for (var b = $mevent.categories.length - 1; b >= 0; b--) {
+        //   _cat_html.text($mevent.categories[b].name).attr('href', $mevent.categories[b].permalink);
+        //   _cat_html.appendTo(_nav);
+        // }
 
         _this.infowindow.setContent(_buildHTML.html());
         _this.infowindow.open(_this.google_map);
