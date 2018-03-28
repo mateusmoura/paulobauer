@@ -96,7 +96,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
   */
   GoogleMaps.fn.build = function () {
     var _this				= this;
-    this.mcOptions			= {gridSize: 50, maxZoom: 18};
+    this.mcOptions			= {gridSize: 10, maxZoom: 10};
     this.markers			= [];
     this.infowindow			= new InfoBox({
                   content					: "building...",

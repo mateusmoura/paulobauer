@@ -15,7 +15,7 @@ const config = {
   srcDir: 'src',
   assetDir: 'assets/',
   wordpressDir: '../wordpress/wp-content/themes/fisk_brasilia_2018/',
-  production: false,
+  production: !!util.env.production,
 };
 
 gulp.task('lint', () =>
@@ -48,9 +48,9 @@ gulp.task('sass', () =>
     .pipe(config.production ? util.noop() : browserSync.stream())));
 
 gulp.task('images', () => (
-  gulp.src(`${config.srcDir}/img/{**/,}*.*`)
+  gulp.src(`${config.srcDir}/images/{**/,}*.*`)
     .on('error', sass.logError)
-    .pipe(gulp.dest(`${config.assetDir}/img`))
+    .pipe(gulp.dest(config.production ? `${config.assetDir}/images` : `${config.assetDir}/images`))
 ));
 
 // gulp.task('plugins', () => (
@@ -67,7 +67,7 @@ gulp.task('js', () => (
       debug : true,
     }))
     .pipe(concat('main.js'))
-    .pipe(gulp.dest(`${config.srcDir}/js`))
+    .pipe(gulp.dest(config.production ? `${config.assetDir}/js` : `${config.srcDir}/js`))
 ));
 
 // Static Server + hot reload + watching scss/js/html files
