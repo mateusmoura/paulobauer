@@ -6,12 +6,16 @@ const fileinclude = require('gulp-file-include');
 const eslint = require('gulp-eslint');
 const sourcemaps = require('gulp-sourcemaps');
 const util = require('gulp-util');
+const uglify = require('gulp-uglify');
+const browserify = require('gulp-browserify');
+const rename = require('gulp-rename');
+const concat = require('gulp-concat');
 
 const config = {
-  srcDir: 'src/',
+  srcDir: 'src',
   assetDir: 'assets/',
   wordpressDir: '../wordpress/wp-content/themes/fisk_brasilia_2018/',
-  production: !!util.env.production,
+  production: false,
 };
 
 gulp.task('lint', () =>
@@ -32,13 +36,15 @@ gulp.task('fileinclude', () => {
 
 // Sass to css conversion
 gulp.task('sass', () =>
-  (gulp.src(`${config.srcDir}/scss/*.scss`)
+  (gulp.src(`${config.srcDir}/sass/*.scss`)
     .pipe(config.production ? util.noop() : sourcemaps.init())
     .pipe(sass({
+      errLogToConsole: true,
       outputStyle: 'expanded',
+      sourceComments: 'normal',
     }).on('error', sass.logError))
     .pipe(config.production ? util.noop() : sourcemaps.write('./maps'))
-    .pipe(gulp.dest(config.production ? `${config.assetDir}/css` : `${config.assetDir}/css`))
+    .pipe(gulp.dest(config.production ? `${config.assetDir}/css` : `${config.srcDir}/css`))
     .pipe(config.production ? util.noop() : browserSync.stream())));
 
 gulp.task('images', () => (
@@ -47,28 +53,33 @@ gulp.task('images', () => (
     .pipe(gulp.dest(`${config.assetDir}/img`))
 ));
 
-gulp.task('plugins', () => (
-  gulp.src(`${config.srcDir}/plugins/{**/,}*.*`)
-    .on('error', sass.logError)
-    .pipe(gulp.dest(`${config.assetDir}/plugins`))
-));
+// gulp.task('plugins', () => (
+//   gulp.src(`${config.srcDir}/plugins/{**/,}*.*`)
+//     .on('error', sass.logError)
+//     .pipe(gulp.dest(`${config.assetDir}/plugins`))
+// ));
 
 gulp.task('js', () => (
-  gulp.src(`${config.srcDir}/js/{**/,}*.*`)
+  gulp.src(`${config.srcDir}/js/base.js`)
     .on('error', sass.logError)
-    .pipe(gulp.dest(`${config.assetDir}/js`))
+    .pipe(browserify({
+      insertGlobals : true,
+      debug : true,
+    }))
+    .pipe(concat('main.js'))
+    .pipe(gulp.dest(`${config.srcDir}/js`))
 ));
 
 // Static Server + hot reload + watching scss/js/html files
-gulp.task('serve', ['sass', 'fileinclude'], () => {
+gulp.task('serve', ['sass', 'fileinclude', 'js'], () => {
   browserSync.init({
     server: {
       baseDir: config.srcDir,
     },
   });
 
-  gulp.watch([`${config.srcDir}/scss/*.scss`, `${config.srcDir}/scss/*/*.scss`], ['sass']);
-  gulp.watch(`${config.srcDir}/js/*.js`).on('change', browserSync.reload);
+  gulp.watch([`${config.srcDir}/sass/*.scss`, `${config.srcDir}/sass/*/*.scss`], ['sass']);
+  gulp.watch([`${config.srcDir}/js/*.js`, `${config.srcDir}/js/{**/,}*.js`], ['js']).on('change', browserSync.reload);
   gulp.watch([`${config.srcDir}/*.html`, `${config.srcDir}/includes/*.html`], ['fileinclude']).on('change', () => {
     setTimeout(() => {
       browserSync.reload();
@@ -76,6 +87,6 @@ gulp.task('serve', ['sass', 'fileinclude'], () => {
   });
 });
 
-const tasks = config.production ? ['sass', 'fileinclude', 'images', 'plugins', 'js'] : ['serve'];
+const tasks = config.production ? ['sass', 'fileinclude', 'images', 'js'] : ['serve'];
 
 gulp.task('default', tasks);

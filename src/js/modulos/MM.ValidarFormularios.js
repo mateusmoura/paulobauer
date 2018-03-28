@@ -6,9 +6,9 @@
 
 Module('MM.ValidarFormularios', function (ValidarFormularios) {
 	ValidarFormularios.fn.initialize = function ($form, $settings, $callfn) {
-		this.formulario			= $form;
-		this.settings			= $settings;
-		this.call				= $callfn;
+		this.formulario       = $form;
+		this.settings         = $settings;
+		this.call             = eval($callfn);
 
 		//this.config();
 		//this.setValidar();
@@ -189,7 +189,7 @@ Module('MM.ValidarFormularios', function (ValidarFormularios) {
 				required: "Este campo é obrigatório.",
 				// remote: "Please fix this field.",
 				email: "Digite um e-mail válido.",
-				// url: "Please enter a valid URL.",
+				url: "Informe uma URL válida.",
 				date: "Digite uma data válida.",
 				dateISO: "Digite uma data válida (ISO).",
 				number: "Digite uma quantidade válida.",
@@ -222,6 +222,7 @@ Module('MM.ValidarFormularios', function (ValidarFormularios) {
 				$("div.checker", _this.formulario).removeClass("checker"); // Verificar se ainda está usando essa classe VERIFY
 
 				if(_this.formulario.data('ajax')){
+					console.log('ajax');
 					$(forms).ajaxSubmit({
 						dataType: 'json',
 						error: function(a, b, c){
@@ -229,7 +230,7 @@ Module('MM.ValidarFormularios', function (ValidarFormularios) {
 						},
 						success: function(resp){
 							//console.log( "RESPONSE: ", resp );
-							_this.call != undefined && _this.call(_this.formulario);
+							_this.call != undefined && _this.call(forms, resp);
 						}
 					});
 
@@ -238,7 +239,9 @@ Module('MM.ValidarFormularios', function (ValidarFormularios) {
 
 					// Função para mostrar conteúdo estatico
 					//_this.call != undefined && site[_this.call](_this.formulario, resposta);
-				}else{
+				} else if(_this.formulario.data('onlyvalidate')) {
+					_this.call != undefined && _this.call(_this.formulario, forms);
+				} else{
 					forms.submit();
 				}
 			},

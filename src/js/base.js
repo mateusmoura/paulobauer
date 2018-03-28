@@ -8,6 +8,9 @@
 * Copyright(c) Todos os direitos reservados a 
 */
 
+let mapa_data = {};
+const base_url = '../';
+
 if (window.console == null) window.console = { log: function (p) { }, error: function (p) { } };
 
 if (!Function.prototype.bind) {
@@ -39,7 +42,9 @@ var site = {
   * Funcionalidades GLOBAL onde e chamado em todas as páginas do projeto.
   */
   global: function(){
-    var _collapse = $('.collapse');
+    // var _collapse = $('.collapse');
+
+    this.convertXLSXtoJSON();
 
     // MM.Mascarar();
     // for (var i = _collapse.length - 1; i >= 0; i--) {
@@ -129,6 +134,37 @@ var site = {
   */
   registerEvent: function () {
     console.log('Callback modal');
+  },
+  convertXLSXtoJSON: () => {
+    /* set up XMLHttpRequest */
+    var url = "../docs/acoes.xlsx";
+    var oReq = new XMLHttpRequest();
+    oReq.open("GET", url, true);
+    oReq.responseType = "arraybuffer";
+
+    oReq.onload = function(e) {
+      var arraybuffer = oReq.response;
+
+      /* convert data to binary string */
+      var data = new Uint8Array(arraybuffer);
+      var arr = new Array();
+      for(var i = 0; i != data.length; ++i) arr[i] = String.fromCharCode(data[i]);
+      var bstr = arr.join("");
+
+      /* Call XLSX */
+      var workbook = XLSX.read(bstr, {type:"binary"});
+
+      /* DO SOMETHING WITH workbook HERE */
+      var first_sheet_name = workbook.SheetNames[0];
+      /* Get worksheet */
+      var worksheet = workbook.Sheets[first_sheet_name];
+      
+      mapa_data = XLSX.utils.sheet_to_json(worksheet,{raw:true});
+
+      MM.GoogleMaps(document.getElementById('google__map'), mapa_data);
+    }
+
+    oReq.send();
   }
 }
 

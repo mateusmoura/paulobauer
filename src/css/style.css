@@ -1,0 +1,149 @@
+/*=== MIXINS ===*/
+/*=== VARIABLES ===*/
+/*============ COLOR CLASSES =============*/
+/* line 16, src/sass/partials/_variables.scss */
+.text-primary {
+  color: #F45C5D !important;
+}
+
+/* line 19, src/sass/partials/_variables.scss */
+.text-white {
+  color: #ffffff !important;
+}
+
+/* line 22, src/sass/partials/_variables.scss */
+.bg-sand {
+  background-color: #f5f5f6;
+}
+
+/* line 25, src/sass/partials/_variables.scss */
+.bg-gray {
+  background-color: #cccccc;
+}
+
+/* line 28, src/sass/partials/_variables.scss */
+.bg-primary {
+  background-color: #F45C5D !important;
+}
+
+/* line 31, src/sass/partials/_variables.scss */
+.no-bg {
+  background-color: transparent;
+}
+
+/* line 34, src/sass/partials/_variables.scss */
+.bordered {
+  border: 1px solid #d6dbe2;
+}
+
+/* line 38, src/sass/partials/_variables.scss */
+.brd-gray {
+  border-color: #cccccc !important;
+}
+
+/* line 41, src/sass/partials/_variables.scss */
+.brd-primary {
+  border-color: #F45C5D !important;
+}
+
+/* Background Colors */
+/* line 46, src/sass/partials/_variables.scss */
+.bg-white {
+  background-color: #ffffff !important;
+}
+
+/* line 49, src/sass/partials/_variables.scss */
+.bg-dark {
+  background-color: #1d2025 !important;
+}
+
+/* line 52, src/sass/partials/_variables.scss */
+.bg-faded {
+  background-color: #f5f5f6;
+}
+
+/*============ FUNCTIONS =============*/
+/*=== MEDIA QUERY ===*/
+/* line 1, src/sass/_reset.scss */
+* {
+  outline: 0;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 6, src/sass/_reset.scss */
+html, * {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* line 12, src/sass/_reset.scss */
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  color: #8b8e93;
+  font-weight: 300;
+}
+
+/* line 19, src/sass/_reset.scss */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 23, src/sass/_reset.scss */
+ul li {
+  list-style-type: none;
+}
+
+/* line 28, src/sass/_reset.scss */
+p {
+  color: #8b8e93;
+  font-weight: 300;
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 26px;
+}
+
+/* line 35, src/sass/_reset.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: capitalize;
+  margin: 0;
+  color: #222222;
+  line-height: 1.1;
+}
+
+/* line 42, src/sass/_reset.scss */
+h1 {
+  font-size: 40px;
+}
+
+/* line 45, src/sass/_reset.scss */
+h2 {
+  font-size: 30px;
+}
+
+/* line 48, src/sass/_reset.scss */
+h3 {
+  font-size: 25px;
+}
+
+/* line 51, src/sass/_reset.scss */
+h4 {
+  font-size: 20px;
+}
+
+/* line 54, src/sass/_reset.scss */
+h5 {
+  font-size: 18px;
+}
+
+/* line 57, src/sass/_reset.scss */
+h6 {
+  font-size: 16px;
+}
+
+/*# sourceMappingURL=maps/style.css.map */

@@ -1,0 +1,71 @@
+/*=== VARIABLES ===*/
+// $primary-color:#0cc652;
+$primary-color: #F45C5D;
+$secondary-color:#eaeaea;
+$white-color: #ffffff;
+$black-color: #000000;
+$sand: #f5f5f6;
+$text-color: #8b8e93;
+$title-color: #222222;
+$title-color-dk: #1d2025;
+$border-color: #d6dbe2;
+$gray : #cccccc;
+$dark-navy : #071e33;
+
+/*============ COLOR CLASSES =============*/
+.text-primary {
+	color: $primary-color!important;
+}
+.text-white {
+	color: $white-color!important;
+}
+.bg-sand {
+	background-color: $sand;
+}
+.bg-gray {
+	background-color: $gray;
+}
+.bg-primary {
+	background-color: $primary-color!important;
+}
+.no-bg {
+	background-color: transparent;
+}
+.bordered {
+	border: 1px solid $border-color;
+}
+
+.brd-gray {
+	border-color: $gray!important;
+}
+.brd-primary {
+	border-color: $primary-color!important;
+}
+
+/* Background Colors */
+.bg-white {
+	background-color: $white-color!important;
+}
+.bg-dark {
+	background-color: $title-color-dk!important;
+}
+.bg-faded {
+	background-color: $sand;
+}
+
+$success: #49c32c;
+$bg-success: #49c32c;
+$info: #439fdb;
+$bg-info: #439fdb;
+$warning: #eabf38;
+$bg-warning: #eabf38;
+$danger: #f55c5d;
+$bg-danger: #f55c5d;
+$inverse: #323f41;
+/*============ FUNCTIONS =============*/
+@function tint($primary-color, $percentage) {
+  @return mix($primary-color, transparent, $percentage);
+}
+@function shade($color, $percentage) {
+  @return mix(black, $color, $percentage);
+}

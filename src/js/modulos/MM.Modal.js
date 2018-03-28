@@ -21,6 +21,8 @@ Module('MM.Modal', function (Modal) {
 
 		$.ajax({
 			url: $url,
+			method: $evt.currentTarget.dataset.modal ? 'POST' : 'GET',
+			data: $evt.currentTarget.dataset.modal !== undefined && $evt.currentTarget.dataset.modal,
 			cache: true,
 			beforeSend: function () {
 				//oTalk.loading.add(oTalk.overlay).fadeIn();

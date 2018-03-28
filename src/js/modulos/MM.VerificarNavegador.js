@@ -4,8 +4,8 @@
 * @Version: 1.0
 */
 
-Module('CNA.VerificarNavegador', function(VerificarNavegador){
-	VerificarNavegador.fn.initialize = function(){
+Module('MM.VerificarNavegador', function (VerificarNavegador) {
+	VerificarNavegador.fn.initialize = function () {
 		var _this = this;
 
 		this.loadScripts();
@@ -14,7 +14,7 @@ Module('CNA.VerificarNavegador', function(VerificarNavegador){
 	/**
 	* Carregar Scripts necessários para funcionalidade.
 	*/
-	VerificarNavegador.fn.loadScripts = function(){
+	VerificarNavegador.fn.loadScripts = function () {
 		var _this = this;
 
 		jQuery.ajaxSetup({
@@ -23,10 +23,10 @@ Module('CNA.VerificarNavegador', function(VerificarNavegador){
 
 		if( $.upgradebrowsers === undefined ){
 			jQuery.getScript(base_url + "js/plugins/jQuery.upgradebrowsers.min.js")
-				.done(function() {
+				.done(function () {
 					_this.building();
 				})
-				.fail(function() {
+				.fail(function () {
 					console.log('Erro getScript')
 				});
 		} else{
@@ -36,7 +36,7 @@ Module('CNA.VerificarNavegador', function(VerificarNavegador){
 	/**
 	* Construir mensagem para o usuário fazer o upgrade
 	*/
-	VerificarNavegador.fn.building = function(){
+	VerificarNavegador.fn.building = function () {
 		$.upgradebrowsers({
 			versions : { chrome:15, mozilla:7, opera:11, safari:5, msie:9 },
 			messages : {
@@ -47,7 +47,7 @@ Module('CNA.VerificarNavegador', function(VerificarNavegador){
 	/**
 	* Adiciona classes no Body para determinados navegadores
 	*/
-	VerificarNavegador.fn.adicionarClasse = function(){
+	VerificarNavegador.fn.adicionarClasse = function () {
 		$.browser.mozilla != undefined
 			? $("body").addClass("mozilla")
 			: $.browser.opera != undefined
@@ -61,7 +61,7 @@ var matched, browser;
 // Use of jQuery.browser is frowned upon.
 // More details: http://api.jquery.com/jQuery.browser
 // jQuery.uaMatch maintained for back-compat
-jQuery.uaMatch = function( ua ) {
+jQuery.uaMatch = function (ua) {
 	ua = ua.toLowerCase();
 
 	var match = /(chrome)[ \/]([\w.]+)/.exec( ua ) ||

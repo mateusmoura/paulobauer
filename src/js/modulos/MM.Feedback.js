@@ -4,7 +4,7 @@
 * @Version: 1.0
 */
 
-Module('CNA.Feedback', function(Feedback){
+Module('MM.Feedback', function(Feedback){
 	Feedback.fn.initialize = function($texto, $tipo, $url){
 		this.texto = $texto;
 		this.tipo = $tipo;
@@ -20,11 +20,11 @@ Module('CNA.Feedback', function(Feedback){
 		var _tipo = this.tipo == null ? "" : this.tipo;
 
 		if( _tipo === 'sucesso' ){
-			this.feedback = $('<div class="feedback sucesso"><p>'+this.texto+'</p></div>').appendTo($('main'));
+			this.feedback = $('<div class="feedback sucesso"><p>'+this.texto+'</p></div>').appendTo($('body'));
 		}else if (_tipo === 'erro') {
-			this.feedback =  $('<div class="feedback error"><p>'+this.texto+'</p><a href="'+this.url+'">Ajuda</a></div>').appendTo($('main'));
+			this.feedback =  $('<div class="feedback erro"><p>'+this.texto+'</p></div>').appendTo($('body'));
 		}else{
-			this.feedback =  $('<div class="feedback atencao"><p>'+this.texto+'</p><a href="'+this.url+'">Desfazer</a></div>').appendTo($('main'));
+			this.feedback =  $('<div class="feedback atencao"><p>'+this.texto+'</p></div>').appendTo($('body'));
 		};
 	};
 	/**
@@ -32,7 +32,6 @@ Module('CNA.Feedback', function(Feedback){
 	*/
 	Feedback.fn.mostrar = function(){
 		var _this = this;
-		console.log( _this.feedback.height() )
 
 		this.feedback.css({
 			top: -( _this.feedback.height() )
@@ -46,8 +45,6 @@ Module('CNA.Feedback', function(Feedback){
 				_this.esconder();
 			}, 3000 )
 		});
-
-
 	};
 	/**
 	* Esconde a mensagem personalizada.

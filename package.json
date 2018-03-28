@@ -4,9 +4,15 @@
   "description": "Mapa Paulo Bauer",
   "main": "index.html",
   "dependencies": {
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
     "gulp-eslint": "^4.0.2",
     "gulp-file-include": "^2.0.1",
-    "gulp-sourcemaps": "^2.6.4"
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "jszip": "^3.1.5",
+    "xlsx-to-json": "^0.3.0"
   },
   "devDependencies": {
     "browser-sync": "^2.18.6",
@@ -16,6 +22,7 @@
     "eslint-plugin-jsx-a11y": "^6.0.3",
     "eslint-plugin-react": "^7.6.1",
     "gulp": "^3.9.1",
+    "gulp-requirejs": "^1.1.1",
     "gulp-sass": "^3.1.0",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11"

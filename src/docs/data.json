@@ -1,0 +1,2810 @@
+[
+  {
+     "Valor":"R$ 438,750.00",
+     "Cidade":"Sul Brasil",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Águas Mornas",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 190,000.00",
+     "Cidade":"Campos Novos",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Celso Ramos",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Descanso",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Guatambú",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Meleiro",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Modelo",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Rancho Queimado",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Rio dos Cedros",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Santa Teresinha",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"São João do Oeste",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"São Joaquim",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Sul Brasil",
+     "Tipo":"Agricultura",
+     "Descrição":"Equipamentos agrícolas"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Itaiópolis",
+     "Tipo":"Assistência Social",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Xaxim",
+     "Tipo":"Assistência Social",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Lebon Régis",
+     "Tipo":"Assistência Social",
+     "Descrição":"Equip. para Hosp. e Maternidade Sto. Antônio"
+  },
+  {
+     "Valor":"R$ 106,400.00",
+     "Cidade":"Joinville",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo e equipamentos para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 53,200.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo e equipamentos para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 53,200.00",
+     "Cidade":"Tubarão",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo e equipamentos para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 159,200.00",
+     "Cidade":"Florianópolis",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo e equipamentos para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Abelardo Luz",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Araranguá",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Balneário Camboriú",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Barra Velha",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Biguaçu",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 53,200.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Bombinhas",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Braço do Norte",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Brusque",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Caçador",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Caibi",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Calmon",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Camboriú",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Campo Erê",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Campos Novos",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Canoinhas",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Capinzal",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Capivari de Baixo",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Catanduvas",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 53,200.00",
+     "Cidade":"Chapecó",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Cocal do Sul",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Concórdia",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Correia Pinto",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Criciúma",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Cunha Porã",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Curitibanos",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Dionísio Cerqueira",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Erval Velho",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Forquilhinha",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Fraiburgo",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Garopaba",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Garuva",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Gaspar",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Guaramirim",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Herval d' Oeste",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Içara",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Imbituba",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Indaial",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Irani",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Itajaí",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Itapema",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Ituporanga",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Joaçaba",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Lages",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Laguna",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Lontras",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Mafra",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Maravilha",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Monte Castelo",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Morro da Fumaça",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Navegantes",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Palhoça",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Palmitos",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Penha",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Pinhalzinho",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Pomerode",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Ponte Serrada",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Porto Belo",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Porto União",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Rio Negrinho",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,601.00",
+     "Cidade":"São Bento do Sul",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"São Cristóvão do Sul",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"São Francisco do Sul",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"São João Batista",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"São Joaquim",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"São José",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"São Lourenço do Oeste",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"São Miguel do Oeste",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Schroeder",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Sombrio",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Tigrinhos",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Tijucas",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Timbó",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Videira",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Xanxerê",
+     "Tipo":"Assistência Social",
+     "Descrição":"Veículo para o Centro de Referência Especializado de Assistência Social (CREAS)"
+  },
+  {
+     "Valor":"R$ 500,000.00",
+     "Cidade":"Joinville",
+     "Tipo":"Cultura",
+     "Descrição":"Fomento - Escola Teatro Bolshoi"
+  },
+  {
+     "Valor":"R$ 300,000.00",
+     "Cidade":"Doutor Pedrinho",
+     "Tipo":"Educação",
+     "Descrição":"Construção de salas de aula"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Sul Brasil",
+     "Tipo":"Educação",
+     "Descrição":"Construção de salas de aula"
+  },
+  {
+     "Valor":"500,000.00",
+     "Cidade":"Joinville",
+     "Tipo":"Educação",
+     "Descrição":"Equipamentos e incentivo à pesquisa UFSC"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"Águas Mornas",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Araquari",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Armazém",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 244,500.00",
+     "Cidade":"Balneário Piçarras",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 268,950.00",
+     "Cidade":"Benedito Novo",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Biguaçu",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Bom Jardim da Serra",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Bom Retiro",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 186,400.00",
+     "Cidade":"Bombinhas",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 726,300.00",
+     "Cidade":"Caçador",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 139,000.00",
+     "Cidade":"Camboriú",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Camboriú",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"Camboriú",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"Campos Novos",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Canelinha",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 139,000.00",
+     "Cidade":"Canoinhas",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Celso Ramos",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 139,000.00",
+     "Cidade":"Corupá",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"Corupá",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Criciúma",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Entre Rios",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 242,100.00",
+     "Cidade":"Forquilhinha",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Garuva",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"Governador Celso Ramos",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 139,000.00",
+     "Cidade":"Guaramirim",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 244,500.00",
+     "Cidade":"Guarujá do Sul",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 244,500.00",
+     "Cidade":"Ibicaré",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Ibirama",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Ilhota",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 244,500.00",
+     "Cidade":"Imbituba",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 739,372.80",
+     "Cidade":"Indaial",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Irani",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 211,500.00",
+     "Cidade":"Irineópolis",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Itá",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Itapema",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 139,000.00",
+     "Cidade":"Itapoá",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Lebon Régis",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Lontras",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 214,823.00",
+     "Cidade":"Lontras",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Macieira",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Massaranduba",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 268,950.00",
+     "Cidade":"Massaranduba",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Morro da Fumaça",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 244,500.00",
+     "Cidade":"Navegantes",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Nova Trento",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Otacílio Costa",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"Otacílio Costa",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Papanduva",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Papanduva",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Passos Maia",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 244,500.00",
+     "Cidade":"Penha",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Pescaria Brava",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Praia Grande",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,781.00",
+     "Cidade":"Rancho Queimado",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"Riqueza",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 242,100.00",
+     "Cidade":"Rodeio",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Salto Veloso",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Sangão",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Santa Rosa de Lima",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"São Bento do Sul",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 186,400.00",
+     "Cidade":"São Bernardino",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 268,950.00",
+     "Cidade":"São João do Itaperiú",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"São João do Itaperiú",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"São José",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 244,500.00",
+     "Cidade":"São Miguel da Boa Vista",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Schroeder",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 268,950.00",
+     "Cidade":"Schroeder",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 249,740.00",
+     "Cidade":"Schroeder",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 227,780.00",
+     "Cidade":"Sul Brasil",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Taió",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Tigrinhos",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 259,250.00",
+     "Cidade":"Timbó",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 242,200.00",
+     "Cidade":"Timbó",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 268,950.00",
+     "Cidade":"Treze de Maio",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 244,500.00",
+     "Cidade":"Treze Tílias",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 148,900.00",
+     "Cidade":"Trombudo Central",
+     "Tipo":"Educação",
+     "Descrição":"Ônibus para transporte escolar"
+  },
+  {
+     "Valor":"R$ 6,000,000.00",
+     "Cidade":"Palhoça",
+     "Tipo":"Esporte",
+     "Descrição":"Ginásio de esportes em escola estadual"
+  },
+  {
+     "Valor":"R$ 2,965,600.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Construção da Via Verde"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Rio Negrinho",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Araquari",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Balneário Piçarras",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 493,100.00",
+     "Cidade":"Campos Novos",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 400,000.00",
+     "Cidade":"Concórdia",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 260,284.06",
+     "Cidade":"Gravatal",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 245,850.00",
+     "Cidade":"Guaramirim",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 245,850.00",
+     "Cidade":"Guaramirim",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 295,300.00",
+     "Cidade":"Imbituba",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Indaial",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 245,850.00",
+     "Cidade":"Irineópolis",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Irineópolis",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Ituporanga",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 300,000.00",
+     "Cidade":"Joaçaba",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 350,000.00",
+     "Cidade":"Major Gercino",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Maracajá",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Monte Carlo",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Monte Castelo",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 400,000.00",
+     "Cidade":"Navegantes",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Nova Veneza",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Pinhalzinho",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Pomerode",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Porto União",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 300,000.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Santo Amaro da Imperatriz",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 245,850.00",
+     "Cidade":"São José do Cedro",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Schroeder",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Taió",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Urubici",
+     "Tipo":"Infraestrutura",
+     "Descrição":"Pavimentação de vias urbanas"
+  },
+  {
+     "Valor":"R$ 80.000,00",
+     "Cidade":"Abdon Batista",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Agrolândia",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Águas de Chapecó",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Alto Bela Vista",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Arroio Trinta",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Balneário Barra do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Barra Velha",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Bom Jesus",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Calmon",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Campo Alegre",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Campo Erê",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Canoinhas",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Capão Alto",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Dona Emma",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Garuva",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Guatambú",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Iraceminha",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Itapoá",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Lajeado Grande",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Leoberto Leal",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Lindóia do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Major Vieira",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Maracajá",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Massaranduba",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Mirim Doce",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Monte Castelo",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Navegantes",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Nova Erechim",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Nova Itaberaba",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Ouro Verde",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Paial",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Painel",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Papanduva",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Pedras Grandes",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Peritiba",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Pomerode",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Ponte Alta do Norte",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Praia Grande",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Rancho Queimado",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Rio dos Cedros",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Santa Helena",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"São João do Itaperiú",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"São Martinho",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Schroeder",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Seara",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Serra Alta",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 170,000.00",
+     "Cidade":"Três Barras",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Turvo",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulância para o município"
+  },
+  {
+     "Valor":"R$ 340,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulâncias para o município"
+  },
+  {
+     "Valor":"R$ 340,000.00",
+     "Cidade":"Joinville",
+     "Tipo":"Saúde",
+     "Descrição":"Ambulâncias para o município"
+  },
+  {
+     "Valor":"R$ 160,000.00",
+     "Cidade":"Porto União",
+     "Tipo":"Saúde",
+     "Descrição":"Compra de equipamentos para Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. Fund. Hospitalar de Blumenau"
+  },
+  {
+     "Valor":"R$ 430,000.00",
+     "Cidade":"Chapecó",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Assoc. Hosp. Lenoir Vargas Ferreira"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Chapecó",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Assoc. Hosp. Lenoir Vargas Ferreira"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Chapecó",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Assoc. Hosp. Lenoir Vargas Ferreira"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Orleans",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Fund. Hosp. Santa Otília"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Descanso",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Fund. Med. Hosp. Trabalhadores Rurais"
+  },
+  {
+     "Valor":"R$ 293,447.67",
+     "Cidade":"Florianópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Fundo Municipal de Saúde"
+  },
+  {
+     "Valor":"R$ 219,940.00",
+     "Cidade":"São José",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Fundo Municipal de Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Pinhalzinho",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Beneficente Pinhalzinho"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Joinville",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Bethesda"
+  },
+  {
+     "Valor":"R$ 450,000.00",
+     "Cidade":"Joinville",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Bethesda"
+  },
+  {
+     "Valor":"R$ 559,768.00",
+     "Cidade":"Joinville",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Bethesda"
+  },
+  {
+     "Valor":"R$ 141,000.00",
+     "Cidade":"Ituporanga",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Bom Jesus"
+  },
+  {
+     "Valor":"R$ 500,000.00",
+     "Cidade":"Florianópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. de Caridade"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Florianópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. de Caridade"
+  },
+  {
+     "Valor":"R$ 300,000.00",
+     "Cidade":"Florianópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. de Caridade"
+  },
+  {
+     "Valor":"R$ 199,980.00",
+     "Cidade":"Presidente Getúlio",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Mat. Maria Auxiliadora"
+  },
+  {
+     "Valor":"R$ 300,000.00",
+     "Cidade":"Itajaí",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Mat. Marieta K. Bornhausen"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Itajaí",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Mat. Marieta K. Bornhausen"
+  },
+  {
+     "Valor":"R$ 300,000.00",
+     "Cidade":"Itajaí",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Mat. Marieta K. Bornhausen"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"São Bento do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Mat. Sagrada Família"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"São Bento do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Mat. Sagrada Família"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"São Bento do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Mat. Sagrada Família"
+  },
+  {
+     "Valor":"R$ 1,000,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Maternidade Jaraguá"
+  },
+  {
+     "Valor":"R$ 1,500,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Maternidade Jaraguá"
+  },
+  {
+     "Valor":"R$ 294,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Maternidade Jaraguá"
+  },
+  {
+     "Valor":"",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Maternidade Jaraguá"
+  },
+  {
+     "Valor":"R$ 500,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Maternidade São José"
+  },
+  {
+     "Valor":"R$ 1,000,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Maternidade São José"
+  },
+  {
+     "Valor":"R$ 500,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Maternidade São José"
+  },
+  {
+     "Valor":"R$ 54,000.00",
+     "Cidade":"Lages",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. e Maternidade Teresa Ramos"
+  },
+  {
+     "Valor":"R$ 355,000.00",
+     "Cidade":"Florianópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Infantil Joana de Gusmão"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Caçador",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Maicé"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Caçador",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Maicé"
+  },
+  {
+     "Valor":"R$ 93,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Miseric. Vila Itoupava"
+  },
+  {
+     "Valor":"R$ 300,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Miseric. Vila Itoupava"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Miseric. Vila Itoupava"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Miseric. Vila Itoupava"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Tubarão",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. N. S. da Conceição"
+  },
+  {
+     "Valor":"R$ 137,963.00",
+     "Cidade":"Urussanga",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. N. S. da Conceição"
+  },
+  {
+     "Valor":"R$ 382,000.00",
+     "Cidade":"São José",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Reg. Dr. Romero M. Gomes"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Xanxerê",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Reg. São Paulo"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Videira",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Salvatoriano Divino Salvador"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Videira",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Salvatoriano Divino Salvador"
+  },
+  {
+     "Valor":"R$ 500,000.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Samaria"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Samaria"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Samaria"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Samaria"
+  },
+  {
+     "Valor":"R$ 130,000.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Samaria"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Santa Isabel"
+  },
+  {
+     "Valor":"R$ 500,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Santa Isabel"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Santa Isabel"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. Santa Isabel"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Porto União",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. São Braz"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Porto União",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. São Braz"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Porto União",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. São Braz"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Imbituba",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. São Camilo"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Campo Alegre",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. São Luiz"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Mafra",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. São Vicente de Paulo"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Mafra",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Hosp. São Vicente de Paulo"
+  },
+  {
+     "Valor":"R$ 54,000.00",
+     "Cidade":"São José",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Instituto de Cardiologia"
+  },
+  {
+     "Valor":"R$ 58,000.00",
+     "Cidade":"Florianópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Maternidade Carmela Dutra"
+  },
+  {
+     "Valor":"R$ 28,800.00",
+     "Cidade":"Joinville",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Maternidade Darcy Vargas"
+  },
+  {
+     "Valor":"R$ 60,000.00",
+     "Cidade":"Mafra",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Maternidade Dona Catarina Kuss"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Brasília (DF)",
+     "Tipo":"Saúde",
+     "Descrição":"Equip. para Rede Sarah Kubitschek"
+  },
+  {
+     "Valor":"R$ 500,000.00",
+     "Cidade":"Chapecó",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos na Saúde"
+  },
+  {
+     "Valor":"R$ 90,000.00",
+     "Cidade":"Indaial",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos na Saúde"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Angelina",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Arabutã",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Arvoredo",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Atalanta",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Aurora",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Botuverá",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Braço do Trombudo",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Brunópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Campo Belo do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Campo Erê",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Cerro Negro",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Cunhataí",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Ermo",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Grão-Pará",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Ibiam",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Iomerê",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Jardinópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"José Boiteux",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Jupiá",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Lacerdópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Luzerna",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Marema",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Morro Grande",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Palmeira",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Petrolândia",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Planalto Alegre",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Presidente Castelo Branco",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Presidente Nereu",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Princesa",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Saltinho",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"São Bonifácio",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"São João do Oeste",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"São Pedro de Alcântara",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Treviso",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Urupema",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Vargeão",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Vargem Bonita",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Witmarsum",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 25,000.00",
+     "Cidade":"Zortéa",
+     "Tipo":"Saúde",
+     "Descrição":"Equipamentos para consultórios odontológicos"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Içara",
+     "Tipo":"Saúde",
+     "Descrição":"Fund. Social Hospitalar de Içara"
+  },
+  {
+     "Valor":"R$ 1,000,000.00",
+     "Cidade":"Joinville",
+     "Tipo":"Saúde",
+     "Descrição":"Invest. para Fundo Municipal de Saúde"
+  },
+  {
+     "Valor":"R$ 199,995.00",
+     "Cidade":"Lontras",
+     "Tipo":"Saúde",
+     "Descrição":"Invest. para Fundo Municipal de Saúde"
+  },
+  {
+     "Valor":"R$ 109,675.00",
+     "Cidade":"Palhoça",
+     "Tipo":"Saúde",
+     "Descrição":"Invest. para Fundo Municipal de Saúde"
+  },
+  {
+     "Valor":"R$ 121,500.00",
+     "Cidade":"Palhoça",
+     "Tipo":"Saúde",
+     "Descrição":"Invest. para Fundo Municipal de Saúde"
+  },
+  {
+     "Valor":"R$ 220,000.00",
+     "Cidade":"Araquari",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para cirurgias de alta complexidade"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Corupá",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para cirurgias de alta complexidade"
+  },
+  {
+     "Valor":"R$ 220,000.00",
+     "Cidade":"Guaramirim",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para cirurgias de alta complexidade"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Irineópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para cirurgias de alta complexidade"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Mafra",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para cirurgias de alta complexidade"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Rio Negrinho",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para cirurgias de alta complexidade"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"São Francisco do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para cirurgias de alta complexidade"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio do Hosp. Jaraguá"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio do Hosp. São José"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Campo Alegre",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio do Hosp. São Luiz"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Agronômica",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Água Doce",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Águas de Chapecó",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Águas de Chapecó",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Anitápolis",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Araquari",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Ascurra",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Balneário Barra do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Bela Vista do Toldo",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 49,701.00",
+     "Cidade":"Bela Vista do Toldo",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 80,000.00",
+     "Cidade":"Belmonte",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 500,000.00",
+     "Cidade":"Blumenau",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Bom Jesus do oeste",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Bombinhas",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Braço do Norte",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Caçador",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 95,000.00",
+     "Cidade":"Campos Novos",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Canoinhas",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Canoinhas",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Chapadão do Lageado",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Corupá",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Criciúma",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Entre Rios",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Florianópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Florianópolis",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 62,500.00",
+     "Cidade":"Fraiburgo",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Governador Celso Ramos",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Guaraciaba",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Guaramirim",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Iporã do Oeste",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Itapiranga",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 75,000.00",
+     "Cidade":"Itapoá",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Itapoá",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 180,000.00",
+     "Cidade":"Jaguaruna",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 675,000.00",
+     "Cidade":"Jaraguá do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 1,000,000.00",
+     "Cidade":"Joinville",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Laurentino",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 125,000.00",
+     "Cidade":"Luiz Alves",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Macieira",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Major Gercino",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Monte Carlo",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 84,972.00",
+     "Cidade":"Navegantes",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Nova Trento",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Novo Horizonte",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 180,000.00",
+     "Cidade":"Orleans",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Palhoça",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 75,000.00",
+     "Cidade":"Papanduva",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 250,000.00",
+     "Cidade":"Paria Grande",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 50,000.00",
+     "Cidade":"Paulo Lopes",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Piratuba",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"Pouso Redondo",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 180,000.00",
+     "Cidade":"Pouso Redondo",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Rio das Antas",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 51,952.00",
+     "Cidade":"Rio do Oeste",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 125,000.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Rio Negrinho",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 50,000.00",
+     "Cidade":"Santa Terezinha do Progresso",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Santa Terezinha do Progresso",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Santiago do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 125,000.00",
+     "Cidade":"São Bento do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 150,000.00",
+     "Cidade":"São Carlos",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"São João do Itaperiú",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 23,941.00",
+     "Cidade":"São João do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 125,000.00",
+     "Cidade":"São José",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 75,000.00",
+     "Cidade":"Saudades",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 120,000.00",
+     "Cidade":"Timbé do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Timbó",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 50,000.00",
+     "Cidade":"Treze de Maio",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Treze de Maio",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 125,000.00",
+     "Cidade":"Tubarão",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 50,000.00",
+     "Cidade":"Urussanga",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 100,000.00",
+     "Cidade":"Urussanga",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 200,000.00",
+     "Cidade":"Xavantina",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 50,000.00",
+     "Cidade":"São Miguel do Oeste",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para Hospital Regional do Oeste"
+  },
+  {
+     "Valor":"R$ 375,000.00",
+     "Cidade":"Abelardo Luz",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para custeio na Saúde"
+  },
+  {
+     "Valor":"R$ 1,200,000.00",
+     "Cidade":"Joinville",
+     "Tipo":"Saúde",
+     "Descrição":"Recursos para reforma"
+  },
+  {
+     "Valor":"R$ 280,000.00",
+     "Cidade":"Concórdia",
+     "Tipo":"Saúde",
+     "Descrição":"Reforma de unidades básicas de Saúde"
+  },
+  {
+     "Valor":"R$ 190,000.00",
+     "Cidade":"Indaial",
+     "Tipo":"Saúde",
+     "Descrição":"Van para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 190,000.00",
+     "Cidade":"Maracajá",
+     "Tipo":"Saúde",
+     "Descrição":"Van para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 190,000.00",
+     "Cidade":"Monte Carlo",
+     "Tipo":"Saúde",
+     "Descrição":"Van para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 190,000.00",
+     "Cidade":"Porto União",
+     "Tipo":"Saúde",
+     "Descrição":"Van para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 190,000.00",
+     "Cidade":"Praia Grande",
+     "Tipo":"Saúde",
+     "Descrição":"Van para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 190,000.00",
+     "Cidade":"São Carlos",
+     "Tipo":"Saúde",
+     "Descrição":"Van para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 380,000.00",
+     "Cidade":"Concórdia",
+     "Tipo":"Saúde",
+     "Descrição":"Vans para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 340,000.00",
+     "Cidade":"Concórdia",
+     "Tipo":"Saúde",
+     "Descrição":"Vans para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 380,000.00",
+     "Cidade":"Rio do Sul",
+     "Tipo":"Saúde",
+     "Descrição":"Vans para transporte de pacientes"
+  },
+  {
+     "Valor":"R$ 26,600.00",
+     "Cidade":"Quilombo",
+     "Tipo":"Saúde",
+     "Descrição":"Veículo para o  Centro de Referência Especializado de Assistência Social (CREAS)"
+  }
+]
