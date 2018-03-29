@@ -10,9 +10,56 @@
   </header>
 
   <main>
-    <div id="google__map" class="block__map--google">
-      <!-- <img src="<?php bloginfo('template_url'); ?>/img/fke/mapa.png" alt="Google Maps - ONDE"> -->
-    </div>
+    <section class="block__map">
+      <div id="google__map" class="block__map--google"></div>
+
+      <div class="block__map--filter">
+        <ul>
+          <li class="block__map--item block__map--t4">
+            <input type="checkbox" data-tipo="t4" checked name="saude" id="saude" class="block__map--link" />
+            <label for="saude" class="block__map--label">
+              <i class="block__map--icon"></i> Saúde
+            </label>
+          </li>
+          <li class="block__map--item block__map--t3">
+            <input type="checkbox" data-tipo="t3" checked name="agricultura" id="agricultura" class="block__map--link" />
+            <label for="agricultura" class="block__map--label">
+              <i class="block__map--icon"></i> Agricultura
+            </label>
+          </li>
+          <li class="block__map--item block__map--t2">
+            <input type="checkbox" data-tipo="t2" checked name="assistencia" id="assistencia" class="block__map--link" />
+            <label for="assistencia" class="block__map--label">
+              <i class="block__map--icon"></i> Assistência Social
+            </label>
+          </li>
+          <li class="block__map--item block__map--t6">
+            <input type="checkbox" data-tipo="t6" checked name="educacao" id="educacao" class="block__map--link" />
+            <label for="educacao" class="block__map--label">
+              <i class="block__map--icon"></i> Educação
+            </label>
+          </li>
+          <li class="block__map--item block__map--t5">
+            <input type="checkbox" data-tipo="t5" checked id="infra" name="infra" class="block__map--link" />
+            <label for="infra" class="block__map--label">
+              <i class="block__map--icon"></i> Infraestrutura
+            </label>
+          </li>
+          <li class="block__map--item block__map--t1">
+            <input type="checkbox" data-tipo="t1" checked id="esporte" name="esporte" class="block__map--link" />
+            <label for="esporte" class="block__map--label">
+              <i class="block__map--icon"></i> Esporte
+            </label>
+          </li>
+          <li class="block__map--item block__map--t7">
+            <input type="checkbox" data-tipo="t7" checked id="cultura" name="cultura" class="block__map--link" />
+            <label for="cultura" class="block__map--label">
+              <i class="block__map--icon"></i> Cultura
+            </label>
+          </li>
+        </ul>
+      </div>
+  </section>
   </main>
 
   <!-- @@include('includes/footer.html') -->

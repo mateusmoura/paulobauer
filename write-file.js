@@ -33,56 +33,55 @@ var geocoder = NodeGeocoder(options);
 //   }
 // });
 
-fs.readFile('src/docs/data.json', 'utf-8', function(err, data) {
-  if (err) throw err
+// fs.readFile('src/docs/data.json', 'utf-8', function(err, data) {
+//   if (err) throw err
 
-  const arrayOfObjects = JSON.parse(data);
-  let counter = 0;
-  const max = arrayOfObjects.length;
-  let arraySuccess = [];
-  let arrayError = [];
+//   const arrayOfObjects = JSON.parse(data);
+//   let counter = 0;
+//   const max = arrayOfObjects.length;
+//   let arraySuccess = [];
+//   let arrayError = [];
 
-  console.log(arrayOfObjects.length);
+//   console.log(arrayOfObjects.length);
 
+//   const getMore = () => {
+//     return arrayOfObjects.splice(counter, 10);
+//   };
 
-  const getMore = () => {
-    return arrayOfObjects.splice(counter, 10);
-  };
+//   const getLatLog = (item) => {
+//     geocoder.geocode(`${item.Cidade}, SC`)
+//       .then(function(res) {
+//         console.log('Success', counter);
+//         const newItem = item;
 
-  const getLatLog = (item) => {
-    geocoder.geocode(`${item.Cidade}, SC`)
-      .then(function(res) {
-        console.log('Success', counter);
-        const newItem = item;
+//         newItem.lat = res[0].latitude;
+//         newItem.long = res[0].longitude;
 
-        newItem.lat = res[0].latitude;
-        newItem.long = res[0].longitude;
+//         arraySuccess.push(newItem);
+//         counter++;
 
-        arraySuccess.push(newItem);
-        counter++;
+//         if (counter < max) {
+//           if (arrayOfObjects[counter]) {
+//             getLatLog(arrayOfObjects[counter]);
+//           }
+//         } else {
+//           fs.writeFile('src/docs/success.json', JSON.stringify(arraySuccess), 'utf-8', function(err) {
+//             if (err) throw err
+//             console.log('Done!')
+//           })
+//         }
+//       })
+//       .catch(function(err) {
+//         console.log('Error', counter);
 
-        if (counter < max) {
-          if (arrayOfObjects[counter]) {
-            getLatLog(arrayOfObjects[counter]);
-          }
-        } else {
-          fs.writeFile('src/docs/success.json', JSON.stringify(arraySuccess), 'utf-8', function(err) {
-            if (err) throw err
-            console.log('Done!')
-          })
-        }
-      })
-      .catch(function(err) {
-        console.log('Error', counter);
-
-        arrayError.push(item);
+//         arrayError.push(item);
         
-        fs.writeFile('src/docs/error.json', JSON.stringify(arrayError), 'utf-8', function(err) {
-          if (err) throw err
-          console.log('Done!')
-        });
-      });
-  };
+//         fs.writeFile('src/docs/error.json', JSON.stringify(arrayError), 'utf-8', function(err) {
+//           if (err) throw err
+//           console.log('Done!')
+//         });
+//       });
+//   };
 
-  getLatLog(arrayOfObjects[0]);
-});
+//   getLatLog(arrayOfObjects[0]);
+// });

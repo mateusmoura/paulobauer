@@ -47,6 +47,12 @@ gulp.task('sass', () =>
     .pipe(gulp.dest(config.production ? `${config.assetDir}/css` : `${config.srcDir}/css`))
     .pipe(config.production ? util.noop() : browserSync.stream())));
 
+gulp.task('styles', () => (
+  gulp.src(`${config.srcDir}/css/{**/,}*.*`)
+    .on('error', sass.logError)
+    .pipe(gulp.dest(`${config.assetDir}/css`))
+));
+
 gulp.task('images', () => (
   gulp.src(`${config.srcDir}/images/{**/,}*.*`)
     .on('error', sass.logError)
@@ -70,6 +76,18 @@ gulp.task('js', () => (
     .pipe(gulp.dest(config.production ? `${config.assetDir}/js` : `${config.srcDir}/js`))
 ));
 
+gulp.task('javascript', () => (
+  gulp.src(`${config.srcDir}/js/{**/,}*.*`)
+    .on('error', sass.logError)
+    .pipe(gulp.dest(`${config.assetDir}/js`))
+));
+
+gulp.task('data', () => (
+  gulp.src(`${config.srcDir}/docs/{**/,}*.*`)
+    .on('error', sass.logError)
+    .pipe(gulp.dest(`${config.assetDir}/docs`))
+));
+
 // Static Server + hot reload + watching scss/js/html files
 gulp.task('serve', ['sass', 'fileinclude', 'js'], () => {
   browserSync.init({
@@ -87,6 +105,6 @@ gulp.task('serve', ['sass', 'fileinclude', 'js'], () => {
   });
 });
 
-const tasks = config.production ? ['sass', 'fileinclude', 'images', 'js'] : ['serve'];
+const tasks = config.production ? ['styles', 'fileinclude', 'images', 'javascript', 'data'] : ['serve'];
 
 gulp.task('default', tasks);

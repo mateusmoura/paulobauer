@@ -28,4 +28,94 @@ ________________________________________________________________________________
     min-height: 800px;
     width: 100%;
   }
+
+  &--filter {
+    background-color: #fff;
+    position: absolute;
+    padding: 10px;
+    top: 50px;
+    right: 25px;
+    z-index: 90;
+    border-radius: 5px;
+  }
+
+  &--item {
+    i {
+      border: 1px solid #000;
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+    }
+  }
+
+  &--t1 {
+    i {
+      background-color: #A578D4;
+    }
+
+    label {
+      color: #A578D4;
+    }
+  }
+
+  &--t2 {
+    i {
+      background-color: #7BC12A;
+    }
+
+    label {
+      color: #7BC12A;
+    }
+  }
+  
+  &--t3 {
+    i {
+      background-color: #E1B439;
+    }
+
+    label {
+      color: #E1B439;
+    }
+  }
+  
+  &--t4 {
+    i {
+      background-color: #C63A3A;
+    }
+
+    label {
+      color: #C63A3A;
+    }
+  }
+
+  &--t5 {
+    i {
+      background-color: #E47D0D;
+    }
+
+    label {
+      color: #E47D0D;
+    }
+  }
+
+  &--t6 {
+    i {
+      background-color: #1694BD;
+    }
+
+    label {
+      color: #1694BD;
+    }
+  }
+
+  &--t7 {
+    i {
+      background-color: #000000;
+    }
+
+    label {
+      color: #000000;
+    }
+  }
 }

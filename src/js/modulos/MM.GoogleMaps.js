@@ -10,7 +10,8 @@ const base_url = '../';
 
 Module('MM.GoogleMaps', function (GoogleMaps){
   GoogleMaps.fn.initialize = function ($map, $json) {
-    this.container			= $map
+    this.container			= $map;
+    this.total_data_json = $json;
     this.data_json			= $json;
     this.google_map			= [];
 
@@ -76,8 +77,35 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     this.google_map = new google.maps.Map(this.container, {
       zoom: 8,
       scrollwheel: false,
+      place: 'Santa Catarina, Brasil',
       center: new google.maps.LatLng(-27.6745671, -52.4254512),
-      mapTypeId: google.maps.MapTypeId.ROADMAP
+      mapTypeId: google.maps.MapTypeId.ROADMAP,
+      styles: [
+        {
+          "featureType": "administrative.country",
+          "elementType": "geometry.stroke",
+          "stylers": [
+            {
+              "color": "#ff0000"
+            },
+            {
+              "weight": 0.5
+            }
+          ]
+        },
+        {
+          "featureType": "administrative.province",
+          "elementType": "geometry.stroke",
+          "stylers": [
+            {
+              "color": "#ff0000"
+            },
+            {
+              "weight": 2.5
+            }
+          ]
+        }
+      ]
     });
 
     google__map = this.google_map;
@@ -85,6 +113,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     var overlay = new Coloroverlay({ map: this.google_map });
 
     this.build();
+    this.filter();
   };
   /**
   * Getters
@@ -97,7 +126,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
   */
   GoogleMaps.fn.build = function () {
     var _this				= this;
-    this.mcOptions			= {gridSize: 6, maxZoom: 10};
+    this.mcOptions			= {gridSize: 1, maxZoom: 10, averageCenter: true};
     this.markers			= [];
     this.infowindow			= new InfoBox({
                   content					: "building...",
@@ -127,7 +156,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
         marker = new google.maps.Marker({
           position			: latLng,
           draggable			: false,
-          icon				: new google.maps.MarkerImage(`${base_url}/../images/mapa/pin/${this.styles[item.tema].name}.png`, new google.maps.Size(25, 34)),
+          icon				: new google.maps.MarkerImage(`${base_url}/../images/mapa/pin/${this.styles[item.tema].name}.png`, new google.maps.Size(15, 15)),
           title				: item.Tipo,
           // categories			: item.categories,
           //horario				: item.horario_de_funcionamento,
@@ -180,6 +209,8 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     }
 
     this.mc	= new MarkerClusterer(this.google_map, this.markers, this.mcOptions, 'preto');
+
+    this.blockClick = false;
   };
   /**
   * Adiciona os eventos necessários.
@@ -206,5 +237,34 @@ Module('MM.GoogleMaps', function (GoogleMaps){
         oThis.verify = true;
       }
     });
+  };
+  /**
+  * Filtros
+  */
+  GoogleMaps.fn.filter = function() {
+    const filter = $('.block__map--filter');
+    const self = this;
+    this.blockClick = false;
+
+    $('input', filter).on('change', (e) => {
+      let tipos = [];
+      const inputs = $('input:checked', filter);
+
+      if (this.blockClick) return false;
+
+      this.mc.clearMarkers();
+
+      this.blockClick = true;
+
+      inputs.each(item => {
+        tipos.push($(inputs[item]).data('tipo'));
+      });
+
+      this.data_json = this.total_data_json.filter(item => {
+        return tipos.indexOf(item.tema) >= 0;
+      });
+
+      this.build();
+    })
   };
 });
