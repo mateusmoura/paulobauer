@@ -40,86 +40,153 @@ ________________________________________________________________________________
   }
 
   &--item {
+    display: flex;
+    align-items: center;
+
     i {
-      border: 1px solid #000;
+      background: no-repeat left top;
+      background-size: 100%;
       display: inline-block;
-      width: 12px;
-      height: 12px;
+      width: 25px;
+      height: 25px;
       border-radius: 50%;
+      margin-right: 10px;
+    }
+
+    input {
+      margin-right: 10px;
+      position: relative;
+      top: -4px;
+    }
+
+    label {
+      display: flex;
+      align-items: center;
     }
   }
 
   &--t1 {
     i {
-      background-color: #A578D4;
+      background-image: url('../images/mapa/pin/violeta.png');
+      background-color: #8f2c79;
     }
 
     label {
-      color: #A578D4;
+      color: #8f2c79;
     }
   }
 
   &--t2 {
     i {
-      background-color: #7BC12A;
+      background-image: url('../images/mapa/pin/verde.png');
+      background-color: #149253;
     }
 
     label {
-      color: #7BC12A;
+      color: #149253;
     }
   }
   
   &--t3 {
     i {
-      background-color: #E1B439;
+      background-image: url('../images/mapa/pin/amarelo.png');
+      background-color: #fdb913;
     }
 
     label {
-      color: #E1B439;
+      color: #fdb913;
     }
   }
   
   &--t4 {
     i {
-      background-color: #C63A3A;
+      background-image: url('../images/mapa/pin/vermelho.png');
+      background-color: #ec1c24;
     }
 
     label {
-      color: #C63A3A;
+      color: #ec1c24;
     }
   }
 
   &--t5 {
     i {
-      background-color: #E47D0D;
+      background-image: url('../images/mapa/pin/laranja.png');
+      background-color: #f58220;
     }
 
     label {
-      color: #E47D0D;
+      color: #f58220;
     }
   }
 
   &--t6 {
     i {
-      background-color: #1694BD;
+      background-image: url('../images/mapa/pin/azul.png');
+      background-color: #0055a5;
     }
 
     label {
-      color: #1694BD;
+      color: #0055a5;
     }
   }
 
   &--t7 {
     i {
-      background-color: #000000;
+      background-image: url('../images/mapa/pin/preto.png');
+      background-color: #0088a3;
     }
 
     label {
-      color: #000000;
+      color: #0088a3;
     }
   }
 }
 
-.block__info {
-  border: solid 1px red;
+.infoBox {
+  img {
+    position: absolute !important;
+    z-index: 2;
+    top: -32px;
+    right: -15px;
+    border-radius: 50%;
+    border: solid 1px gray;
+  }
+}
+
+.block__infobox {
+  background-color: #fff;
+  border-radius: 10px; 
+  position: relative;
+  padding: 10px;
+  z-index: 1;
+  width: 250px;
+
+  h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 15px;
+    line-height: 1;
+    margin-bottom: 10px;
+  }
+
+  strong {
+    font-size: 16px;
+  }
+
+  &--arrow {
+    display: none;
+    position: absolute;
+    width: 0; 
+    height: 0; 
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 20px solid #fff;
+    left: 50%;
+    margin-left: -20px;
+    bottom: -15px;
+  }
 }

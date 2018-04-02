@@ -369,7 +369,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
         marker = new google.maps.Marker({
           position			: latLng,
           draggable			: false,
-          icon				: new google.maps.MarkerImage(`${base_url}/../images/mapa/pin/${this.styles[item.tema].name}.png`, new google.maps.Size(15, 15)),
+          icon				: new google.maps.MarkerImage(`${base_url}/../images/mapa/pin/${this.styles[item.tema].name}.png`, new google.maps.Size(25, 25)),
           title				: item.Tipo,
           // categories			: item.categories,
           //horario				: item.horario_de_funcionamento,
@@ -379,12 +379,14 @@ Module('MM.GoogleMaps', function (GoogleMaps){
           html: '<div class="block__infobox">'+
                 '<div class="block__infobox--body">'+
                   '<div class="block__infobox--body-overlay"></div>' +
+                  '<h2>' + item.Tipo + '</h2>' +
                   '<h3>' + item.Cidade + '</h3>' +
-                  '<p>' + item.Descricao + '</p>' +
+                  '<p>' + item['Descrição'] + '</p>' +
                   '<strong>' + item.Valor + '</strong>' +
                   // '<div class="block__infobox--foot">'+
                   //   '<a class="fechar" href="' + item.link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
                   // '</div>'+
+                  '<div class="block__infobox--arrow"></div>' +
                 '</div>'+
               '</div>'
         });
@@ -476,6 +478,10 @@ Module('MM.GoogleMaps', function (GoogleMaps){
       inputs.each(item => {
         tipos.push($(inputs[item]).data('tipo'));
       });
+
+      console.log('====================================');
+      console.log(tipos);
+      console.log('====================================');
 
       this.data_json = this.total_data_json.filter(item => {
         return tipos.indexOf(item.tema) >= 0;
