@@ -270,4 +270,9 @@ ________________________________________________________________________________
   color: #000000;
 }
 
+/* line 123, src/sass/components/_mapa.scss */
+.block__info {
+  border: solid 1px red;
+}
+
 /*# sourceMappingURL=maps/style.css.map */

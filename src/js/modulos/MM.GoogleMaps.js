@@ -379,21 +379,13 @@ Module('MM.GoogleMaps', function (GoogleMaps){
           html: '<div class="block__infobox">'+
                 '<div class="block__infobox--body">'+
                   '<div class="block__infobox--body-overlay"></div>' +
-                  '<img src="' + item.imagem + '" />' +
-                  '<h3>' + item.post_title + '</h3>' +
-                  '<p>' + item.address + '</p>' +
-                  '<span>' + item.horario_de_funcionamento + '</span>' +
-
-                  '<div class="block__infobox--category">' +
-                    '<nav></nav>' +
-                  '</div>' +
-
-                  '<div class="block__infobox--content"><span class="loading"></span></div>'+
-                  '<div class="block__infobox--foot">'+
-                    '<a class="fechar" href="' + item.link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
-                  '</div>'+
+                  '<h3>' + item.Cidade + '</h3>' +
+                  '<p>' + item.Descricao + '</p>' +
+                  '<strong>' + item.Valor + '</strong>' +
+                  // '<div class="block__infobox--foot">'+
+                  //   '<a class="fechar" href="' + item.link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
+                  // '</div>'+
                 '</div>'+
-                '<div class="block__infobox--footer"></div>'+
               '</div>'
         });
 
