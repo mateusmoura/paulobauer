@@ -78,7 +78,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
       zoom: 8,
       scrollwheel: false,
       place: 'Santa Catarina, Brasil',
-      center: new google.maps.LatLng(-27.3747833, -49.8212626),
+      center: new google.maps.LatLng(-27.3747833, -50.8212626),
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       styles: [
         {
@@ -412,6 +412,19 @@ Module('MM.GoogleMaps', function (GoogleMaps){
         //oThis.noRefresh = true;
       });
 
+      google.maps.event.addListener(marker, "mouseover", function(event) {
+        var ev = event,
+            $mevent = this;
+
+        
+
+        var _buildHTML = $('<div>' + $mevent.html + '</div>');
+
+        _this.infowindow.setContent(_buildHTML.html());
+        _this.infowindow.open(_this.google_map);
+        _this.infowindow.setPosition(event.latLng);
+      });
+
       this.markers.push(marker);
 
       marker.setMap(this.google_map);
@@ -426,19 +439,15 @@ Module('MM.GoogleMaps', function (GoogleMaps){
   */
   GoogleMaps.fn.addEventListener = function () {
     google.maps.event.addListener( oThis.map, "mouseup", function (event) {
-      console.log( "mouseup" );
-      this.noRefresh == false
-        && oThis.actions.initView( "mouseup" );
+      
     }.bind(this));
     
-    google.maps.event.addListener( oThis.map, "mousedown", function()
-    {
-      console.log( "mousedown" );
+    google.maps.event.addListener( oThis.map, "mousedown", function() {
+
     });
     
     google.maps.event.addListener( oThis.map, "bounds_changed", function( bo ) // TODA VEZ QUE MOVER O MAPA EXECUTA ESSA FUNÇÃO
-    {	
-      console.log( "bounds_changed" );
+    {
       oThis.boundsbw = oThis.map.getBounds();
       if( oThis.verify == false )
       {
