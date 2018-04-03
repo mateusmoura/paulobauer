@@ -376,13 +376,13 @@ Module('MM.GoogleMaps', function (GoogleMaps){
           //endereco			: item.localizacao.address,
           //link_do_post		: item.link_do_post,
           //imagem				: item.imagem,
-          html: '<div class="block__infobox">'+
+          html: '<div class="block__infobox tema-' + item.tema + '">'+
                 '<div class="block__infobox--body">'+
                   '<div class="block__infobox--body-overlay"></div>' +
-                  '<h2>' + item.Tipo + '</h2>' +
-                  '<h3>' + item.Cidade + '</h3>' +
+                  '<h2>' + item.Cidade + '</h2>' +
+                  '<h3><i class="icone icone-' + item.tema + '"></i>' + item.Tipo + '</h3>' +
                   '<p>' + item['Descrição'] + '</p>' +
-                  '<strong>' + item.Valor + '</strong>' +
+                  // '<strong>' + item.Valor + '</strong>' +
                   // '<div class="block__infobox--foot">'+
                   //   '<a class="fechar" href="' + item.link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
                   // '</div>'+

@@ -311,32 +311,204 @@ ________________________________________________________________________________
 /* line 157, src/sass/components/_mapa.scss */
 .block__infobox {
   background-color: #fff;
-  border-radius: 10px;
   position: relative;
-  padding: 10px;
   z-index: 1;
   width: 250px;
 }
 
 /* line 165, src/sass/components/_mapa.scss */
+.block__infobox.tema-t1 {
+  background-color: #c145a5;
+}
+
+/* line 168, src/sass/components/_mapa.scss */
+.block__infobox.tema-t1 i {
+  background-image: url("../images/mapa/pin/violeta.png");
+}
+
+/* line 172, src/sass/components/_mapa.scss */
+.block__infobox.tema-t1 h2, .block__infobox.tema-t1 h3, .block__infobox.tema-t1 p {
+  color: #fff;
+}
+
+/* line 176, src/sass/components/_mapa.scss */
+.block__infobox.tema-t1 label, .block__infobox.tema-t1 .block__infobox--body-overlay {
+  border-left-color: #8f2c79;
+  color: #8f2c79;
+}
+
+/* line 182, src/sass/components/_mapa.scss */
+.block__infobox.tema-t2 {
+  background-color: #25c676;
+}
+
+/* line 185, src/sass/components/_mapa.scss */
+.block__infobox.tema-t2 i {
+  background-image: url("../images/mapa/pin/verde.png");
+}
+
+/* line 189, src/sass/components/_mapa.scss */
+.block__infobox.tema-t2 h2, .block__infobox.tema-t2 h3, .block__infobox.tema-t2 p {
+  color: #fff;
+}
+
+/* line 193, src/sass/components/_mapa.scss */
+.block__infobox.tema-t2 label, .block__infobox.tema-t2 .block__infobox--body-overlay {
+  border-left-color: #149253;
+  color: #149253;
+}
+
+/* line 199, src/sass/components/_mapa.scss */
+.block__infobox.tema-t3 {
+  background-color: #f8ce66;
+}
+
+/* line 202, src/sass/components/_mapa.scss */
+.block__infobox.tema-t3 i {
+  background-image: url("../images/mapa/pin/amarelo.png");
+}
+
+/* line 206, src/sass/components/_mapa.scss */
+.block__infobox.tema-t3 h2, .block__infobox.tema-t3 h3, .block__infobox.tema-t3 p {
+  color: #fff;
+}
+
+/* line 210, src/sass/components/_mapa.scss */
+.block__infobox.tema-t3 label, .block__infobox.tema-t3 .block__infobox--body-overlay {
+  border-left-color: #fdb913;
+  color: #fdb913;
+}
+
+/* line 216, src/sass/components/_mapa.scss */
+.block__infobox.tema-t4 {
+  background-color: #f33e45;
+}
+
+/* line 219, src/sass/components/_mapa.scss */
+.block__infobox.tema-t4 i {
+  background-image: url("../images/mapa/pin/vermelho.png");
+}
+
+/* line 223, src/sass/components/_mapa.scss */
+.block__infobox.tema-t4 h2, .block__infobox.tema-t4 h3, .block__infobox.tema-t4 p {
+  color: #fff;
+}
+
+/* line 227, src/sass/components/_mapa.scss */
+.block__infobox.tema-t4 label, .block__infobox.tema-t4 .block__infobox--body-overlay {
+  border-left-color: #ec1c24;
+  color: #ec1c24;
+}
+
+/* line 233, src/sass/components/_mapa.scss */
+.block__infobox.tema-t5 {
+  background-color: #fd9b47;
+}
+
+/* line 236, src/sass/components/_mapa.scss */
+.block__infobox.tema-t5 i {
+  background-image: url("../images/mapa/pin/laranja.png");
+}
+
+/* line 240, src/sass/components/_mapa.scss */
+.block__infobox.tema-t5 h2, .block__infobox.tema-t5 h3, .block__infobox.tema-t5 p {
+  color: #fff;
+}
+
+/* line 244, src/sass/components/_mapa.scss */
+.block__infobox.tema-t5 label, .block__infobox.tema-t5 .block__infobox--body-overlay {
+  border-left-color: #f58220;
+  color: #f58220;
+}
+
+/* line 250, src/sass/components/_mapa.scss */
+.block__infobox.tema-t6 {
+  background-color: #0363bd;
+}
+
+/* line 253, src/sass/components/_mapa.scss */
+.block__infobox.tema-t6 h2, .block__infobox.tema-t6 h3, .block__infobox.tema-t6 p {
+  color: #fff;
+}
+
+/* line 257, src/sass/components/_mapa.scss */
+.block__infobox.tema-t6 i {
+  background-image: url("../images/mapa/pin/azul.png");
+}
+
+/* line 261, src/sass/components/_mapa.scss */
+.block__infobox.tema-t6 label, .block__infobox.tema-t6 .block__infobox--body-overlay {
+  border-left-color: #0055a5;
+  color: #0055a5;
+}
+
+/* line 267, src/sass/components/_mapa.scss */
+.block__infobox.tema-t7 {
+  background-color: #06a7c7;
+}
+
+/* line 270, src/sass/components/_mapa.scss */
+.block__infobox.tema-t7 h2, .block__infobox.tema-t7 h3, .block__infobox.tema-t7 p {
+  color: #fff;
+}
+
+/* line 274, src/sass/components/_mapa.scss */
+.block__infobox.tema-t7 label, .block__infobox.tema-t7 .block__infobox--body-overlay {
+  border-left-color: #0088a3;
+  color: #0088a3;
+}
+
+/* line 279, src/sass/components/_mapa.scss */
+.block__infobox.tema-t7 i {
+  background-image: url("../images/mapa/pin/preto.png");
+}
+
+/* line 285, src/sass/components/_mapa.scss */
+.block__infobox--body {
+  padding: 20px 30px;
+}
+
+/* line 288, src/sass/components/_mapa.scss */
+.block__infobox--body-overlay {
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-bottom: 40px solid transparent;
+  border-left: 40px solid transparent;
+  border-left: 40px solid #fff;
+  left: 0;
+  top: 0;
+}
+
+/* line 300, src/sass/components/_mapa.scss */
 .block__infobox h3 {
   font-size: 18px;
   margin-bottom: 10px;
+  display: flex;
+  align-items: center;
 }
 
-/* line 170, src/sass/components/_mapa.scss */
+/* line 307, src/sass/components/_mapa.scss */
+.block__infobox i {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+/* line 314, src/sass/components/_mapa.scss */
 .block__infobox p {
   font-size: 15px;
   line-height: 1;
   margin-bottom: 10px;
 }
 
-/* line 176, src/sass/components/_mapa.scss */
+/* line 320, src/sass/components/_mapa.scss */
 .block__infobox strong {
   font-size: 16px;
 }
 
-/* line 180, src/sass/components/_mapa.scss */
+/* line 324, src/sass/components/_mapa.scss */
 .block__infobox--arrow {
   display: none;
   position: absolute;
