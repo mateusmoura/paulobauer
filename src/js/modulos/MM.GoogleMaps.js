@@ -30,13 +30,13 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     this.map				= null;
     this.imageUrl			= base_url + "../images/mapa/pin/preto.png";//'http://chart.apis.google.com/chart?cht=mm&chs=24x32&' + 'chco=FFFFFF,008CFF,000000&ext=.png';
     this.styles				= {
-                  t1: { name: "violeta", cod: "A578D4" },
-                  t2: { name: "verde", cod: "7BC12A" },
-                  t3: { name: "amarelo", cod: "E1B439" },
-                  t4: { name: "vermelho", cod: "C63A3A" },
-                  t5: { name: "laranja", cod: "E47D0D" },
-                  t6: { name: "azul", cod: "1694BD" },
-                  t7: { name: "preto", cod: "000000" }
+                  t1: { name: "violeta", cod: "8f2c79" },
+                  t2: { name: "verde", cod: "149253" },
+                  t3: { name: "amarelo", cod: "fdb913" },
+                  t4: { name: "vermelho", cod: "ec1c24" },
+                  t5: { name: "laranja", cod: "f58220" },
+                  t6: { name: "azul", cod: "0055a5" },
+                  t7: { name: "preto", cod: "0088a3" }
                 };
 
     this.loadScripts();
