@@ -441,6 +441,9 @@ Module('MM.GoogleMaps', function (GoogleMaps){
       map: this.google_map
     });
 
+    var geoXml = new geoXML3.parser({map: this.google_map, singleInfoWindow: true});
+   geoXml.parse(src);
+
     console.log('====================================');
     console.log(kmlLayer);
     console.log('====================================');
