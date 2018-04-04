@@ -430,6 +430,21 @@ Module('MM.GoogleMaps', function (GoogleMaps){
       marker.setMap(this.google_map);
     }
 
+    const src = `${base_url}../docs/municipios_SC.kml`;
+
+    console.log('====================================');
+    console.log(src);
+    console.log('====================================');
+
+    var kmlLayer = new google.maps.KmlLayer(src, {
+      url: src,
+      map: this.google_map
+    });
+
+    console.log('====================================');
+    console.log(kmlLayer);
+    console.log('====================================');
+
     // this.mc	= new MarkerClusterer(this.google_map, this.markers, this.mcOptions, 'preto');
 
     this.blockClick = false;
