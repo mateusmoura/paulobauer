@@ -186,7 +186,7 @@ ________________________________________________________________________________
   position: absolute;
   padding: 10px;
   top: 50px;
-  right: 25px;
+  right: 10%;
   z-index: 90;
   border-radius: 5px;
 }
