@@ -283,7 +283,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     }
 
     const src2 = `http://dev.webfacetecnologia.com.br/paulobauer/docs/sc_laranja.kml`;
-    const src = `${base_url}../docs/sc_laranja.kml`;
+    const src = `../docs/sc_laranja.kml`;
 
     var geoXml = new geoXML3.parser({map: this.google_map});
     geoXml.parse(src);
