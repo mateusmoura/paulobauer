@@ -1,5 +1,23 @@
 [
   {
+    "Valor":"R$ 500,000.00",
+    "Cidade":"Joinville",
+    "Tipo":"Cultura",
+    "tema": "t7",
+    "Descrição":"Fomento - Escola Teatro Bolshoi",
+    "lat":-26.3044084,
+    "long":-48.84638320000001
+  },
+  {
+    "Valor":"R$ 6,000,000.00",
+    "Cidade":"Palhoça",
+    "Tipo":"Esporte",
+    "tema": "t4",
+    "Descrição":"Ginásio de esportes em escola estadual",
+    "lat":-27.6466202,
+    "long":-48.6703613
+  },
+  {
      "Valor":"R$ 438,750.00",
      "Cidade":"Sul Brasil",
      "Tipo":"Agricultura",
@@ -873,15 +891,6 @@
      "long":-52.4040853
   },
   {
-     "Valor":"R$ 500,000.00",
-     "Cidade":"Joinville",
-     "Tipo":"Cultura",
-     "tema": "t7",
-     "Descrição":"Fomento - Escola Teatro Bolshoi",
-     "lat":-26.3044084,
-     "long":-48.84638320000001
-  },
-  {
      "Valor":"R$ 300,000.00",
      "Cidade":"Doutor Pedrinho",
      "Tipo":"Educação",
@@ -1600,15 +1609,6 @@
      "Descrição":"Ônibus para transporte escolar",
      "lat":-27.3117605,
      "long":-49.8240194
-  },
-  {
-     "Valor":"R$ 6,000,000.00",
-     "Cidade":"Palhoça",
-     "Tipo":"Esporte",
-     "tema": "t4",
-     "Descrição":"Ginásio de esportes em escola estadual",
-     "lat":-27.6466202,
-     "long":-48.6703613
   },
   {
      "Valor":"R$ 2,965,600.00",

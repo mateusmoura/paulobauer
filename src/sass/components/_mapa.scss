@@ -33,10 +33,41 @@ ________________________________________________________________________________
     background-color: #fff;
     position: absolute;
     padding: 10px;
-    top: 50px;
-    right: 10%;
+    top: 10px;
+    right: 15%;
     z-index: 90;
     border-radius: 5px;
+    height: 55px;
+    overflow: hidden;
+    @include transition(height 0.3s ease-in-out);
+
+    @include tablet {
+      height: auto;
+      top: 50px;
+      right: 5%;
+    }
+
+    @include desktops {
+      right: 8%;
+    }
+
+    @mixin large-desktops{
+      right: 10%;
+    }
+
+    &-show {
+      @include transition(height 0.3s ease-in-out);
+      height: 300px;
+    }
+  }
+
+  .btn-default {
+    background-color: transparent;
+    margin-bottom: 10px;
+
+    @include tablet {
+      display: none;
+    }
   }
 
   &--item {

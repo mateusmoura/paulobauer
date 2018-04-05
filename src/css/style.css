@@ -185,19 +185,65 @@ ________________________________________________________________________________
   background-color: #fff;
   position: absolute;
   padding: 10px;
-  top: 50px;
-  right: 10%;
+  top: 10px;
+  right: 15%;
   z-index: 90;
   border-radius: 5px;
+  height: 55px;
+  overflow: hidden;
+  -webkit-transition: height 0.3s ease-in-out;
+  -moz-transition: height 0.3s ease-in-out;
+  -ms-transition: height 0.3s ease-in-out;
+  -o-transition: height 0.3s ease-in-out;
+  transition: height 0.3s ease-in-out;
 }
 
-/* line 42, src/sass/components/_mapa.scss */
+@media (min-width: 768px) {
+  /* line 32, src/sass/components/_mapa.scss */
+  .block__map--filter {
+    height: auto;
+    top: 50px;
+    right: 5%;
+  }
+}
+
+@media (min-width: 992px) {
+  /* line 32, src/sass/components/_mapa.scss */
+  .block__map--filter {
+    right: 8%;
+  }
+}
+
+/* line 58, src/sass/components/_mapa.scss */
+.block__map--filter-show {
+  -webkit-transition: height 0.3s ease-in-out;
+  -moz-transition: height 0.3s ease-in-out;
+  -ms-transition: height 0.3s ease-in-out;
+  -o-transition: height 0.3s ease-in-out;
+  transition: height 0.3s ease-in-out;
+  height: 300px;
+}
+
+/* line 64, src/sass/components/_mapa.scss */
+.block__map .btn-default {
+  background-color: transparent;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+  /* line 64, src/sass/components/_mapa.scss */
+  .block__map .btn-default {
+    display: none;
+  }
+}
+
+/* line 73, src/sass/components/_mapa.scss */
 .block__map--item {
   display: flex;
   align-items: center;
 }
 
-/* line 46, src/sass/components/_mapa.scss */
+/* line 77, src/sass/components/_mapa.scss */
 .block__map--item i {
   background: no-repeat left top;
   background-size: 100%;
@@ -208,97 +254,97 @@ ________________________________________________________________________________
   margin-right: 10px;
 }
 
-/* line 56, src/sass/components/_mapa.scss */
+/* line 87, src/sass/components/_mapa.scss */
 .block__map--item input {
   margin-right: 10px;
   position: relative;
   top: -4px;
 }
 
-/* line 62, src/sass/components/_mapa.scss */
+/* line 93, src/sass/components/_mapa.scss */
 .block__map--item label {
   display: flex;
   align-items: center;
 }
 
-/* line 69, src/sass/components/_mapa.scss */
+/* line 100, src/sass/components/_mapa.scss */
 .block__map--t1 i {
   background-image: url("../images/mapa/pin/violeta.png");
   background-color: #8f2c79;
 }
 
-/* line 74, src/sass/components/_mapa.scss */
+/* line 105, src/sass/components/_mapa.scss */
 .block__map--t1 label {
   color: #8f2c79;
 }
 
-/* line 80, src/sass/components/_mapa.scss */
+/* line 111, src/sass/components/_mapa.scss */
 .block__map--t2 i {
   background-image: url("../images/mapa/pin/verde.png");
   background-color: #149253;
 }
 
-/* line 85, src/sass/components/_mapa.scss */
+/* line 116, src/sass/components/_mapa.scss */
 .block__map--t2 label {
   color: #149253;
 }
 
-/* line 91, src/sass/components/_mapa.scss */
+/* line 122, src/sass/components/_mapa.scss */
 .block__map--t3 i {
   background-image: url("../images/mapa/pin/amarelo.png");
   background-color: #fdb913;
 }
 
-/* line 96, src/sass/components/_mapa.scss */
+/* line 127, src/sass/components/_mapa.scss */
 .block__map--t3 label {
   color: #fdb913;
 }
 
-/* line 102, src/sass/components/_mapa.scss */
+/* line 133, src/sass/components/_mapa.scss */
 .block__map--t4 i {
   background-image: url("../images/mapa/pin/vermelho.png");
   background-color: #ec1c24;
 }
 
-/* line 107, src/sass/components/_mapa.scss */
+/* line 138, src/sass/components/_mapa.scss */
 .block__map--t4 label {
   color: #ec1c24;
 }
 
-/* line 113, src/sass/components/_mapa.scss */
+/* line 144, src/sass/components/_mapa.scss */
 .block__map--t5 i {
   background-image: url("../images/mapa/pin/laranja.png");
   background-color: #f58220;
 }
 
-/* line 118, src/sass/components/_mapa.scss */
+/* line 149, src/sass/components/_mapa.scss */
 .block__map--t5 label {
   color: #f58220;
 }
 
-/* line 124, src/sass/components/_mapa.scss */
+/* line 155, src/sass/components/_mapa.scss */
 .block__map--t6 i {
   background-image: url("../images/mapa/pin/azul.png");
   background-color: #0055a5;
 }
 
-/* line 129, src/sass/components/_mapa.scss */
+/* line 160, src/sass/components/_mapa.scss */
 .block__map--t6 label {
   color: #0055a5;
 }
 
-/* line 135, src/sass/components/_mapa.scss */
+/* line 166, src/sass/components/_mapa.scss */
 .block__map--t7 i {
   background-image: url("../images/mapa/pin/preto.png");
   background-color: #0088a3;
 }
 
-/* line 140, src/sass/components/_mapa.scss */
+/* line 171, src/sass/components/_mapa.scss */
 .block__map--t7 label {
   color: #0088a3;
 }
 
-/* line 147, src/sass/components/_mapa.scss */
+/* line 178, src/sass/components/_mapa.scss */
 .infoBox img {
   position: absolute !important;
   z-index: 2;
@@ -308,7 +354,7 @@ ________________________________________________________________________________
   border: solid 1px gray;
 }
 
-/* line 157, src/sass/components/_mapa.scss */
+/* line 188, src/sass/components/_mapa.scss */
 .block__infobox {
   background-color: #fff;
   position: relative;
@@ -316,159 +362,159 @@ ________________________________________________________________________________
   width: 250px;
 }
 
-/* line 165, src/sass/components/_mapa.scss */
+/* line 196, src/sass/components/_mapa.scss */
 .block__infobox.tema-t1 {
   background-color: #c145a5;
 }
 
-/* line 168, src/sass/components/_mapa.scss */
+/* line 199, src/sass/components/_mapa.scss */
 .block__infobox.tema-t1 i {
   background-image: url("../images/mapa/pin/violeta.png");
 }
 
-/* line 172, src/sass/components/_mapa.scss */
+/* line 203, src/sass/components/_mapa.scss */
 .block__infobox.tema-t1 h2, .block__infobox.tema-t1 h3, .block__infobox.tema-t1 p {
   color: #fff;
 }
 
-/* line 176, src/sass/components/_mapa.scss */
+/* line 207, src/sass/components/_mapa.scss */
 .block__infobox.tema-t1 label, .block__infobox.tema-t1 .block__infobox--body-overlay {
   border-left-color: #8f2c79;
   color: #8f2c79;
 }
 
-/* line 182, src/sass/components/_mapa.scss */
+/* line 213, src/sass/components/_mapa.scss */
 .block__infobox.tema-t2 {
   background-color: #25c676;
 }
 
-/* line 185, src/sass/components/_mapa.scss */
+/* line 216, src/sass/components/_mapa.scss */
 .block__infobox.tema-t2 i {
   background-image: url("../images/mapa/pin/verde.png");
 }
 
-/* line 189, src/sass/components/_mapa.scss */
+/* line 220, src/sass/components/_mapa.scss */
 .block__infobox.tema-t2 h2, .block__infobox.tema-t2 h3, .block__infobox.tema-t2 p {
   color: #fff;
 }
 
-/* line 193, src/sass/components/_mapa.scss */
+/* line 224, src/sass/components/_mapa.scss */
 .block__infobox.tema-t2 label, .block__infobox.tema-t2 .block__infobox--body-overlay {
   border-left-color: #149253;
   color: #149253;
 }
 
-/* line 199, src/sass/components/_mapa.scss */
+/* line 230, src/sass/components/_mapa.scss */
 .block__infobox.tema-t3 {
   background-color: #f8ce66;
 }
 
-/* line 202, src/sass/components/_mapa.scss */
+/* line 233, src/sass/components/_mapa.scss */
 .block__infobox.tema-t3 i {
   background-image: url("../images/mapa/pin/amarelo.png");
 }
 
-/* line 206, src/sass/components/_mapa.scss */
+/* line 237, src/sass/components/_mapa.scss */
 .block__infobox.tema-t3 h2, .block__infobox.tema-t3 h3, .block__infobox.tema-t3 p {
   color: #fff;
 }
 
-/* line 210, src/sass/components/_mapa.scss */
+/* line 241, src/sass/components/_mapa.scss */
 .block__infobox.tema-t3 label, .block__infobox.tema-t3 .block__infobox--body-overlay {
   border-left-color: #fdb913;
   color: #fdb913;
 }
 
-/* line 216, src/sass/components/_mapa.scss */
+/* line 247, src/sass/components/_mapa.scss */
 .block__infobox.tema-t4 {
   background-color: #f33e45;
 }
 
-/* line 219, src/sass/components/_mapa.scss */
+/* line 250, src/sass/components/_mapa.scss */
 .block__infobox.tema-t4 i {
   background-image: url("../images/mapa/pin/vermelho.png");
 }
 
-/* line 223, src/sass/components/_mapa.scss */
+/* line 254, src/sass/components/_mapa.scss */
 .block__infobox.tema-t4 h2, .block__infobox.tema-t4 h3, .block__infobox.tema-t4 p {
   color: #fff;
 }
 
-/* line 227, src/sass/components/_mapa.scss */
+/* line 258, src/sass/components/_mapa.scss */
 .block__infobox.tema-t4 label, .block__infobox.tema-t4 .block__infobox--body-overlay {
   border-left-color: #ec1c24;
   color: #ec1c24;
 }
 
-/* line 233, src/sass/components/_mapa.scss */
+/* line 264, src/sass/components/_mapa.scss */
 .block__infobox.tema-t5 {
   background-color: #fd9b47;
 }
 
-/* line 236, src/sass/components/_mapa.scss */
+/* line 267, src/sass/components/_mapa.scss */
 .block__infobox.tema-t5 i {
   background-image: url("../images/mapa/pin/laranja.png");
 }
 
-/* line 240, src/sass/components/_mapa.scss */
+/* line 271, src/sass/components/_mapa.scss */
 .block__infobox.tema-t5 h2, .block__infobox.tema-t5 h3, .block__infobox.tema-t5 p {
   color: #fff;
 }
 
-/* line 244, src/sass/components/_mapa.scss */
+/* line 275, src/sass/components/_mapa.scss */
 .block__infobox.tema-t5 label, .block__infobox.tema-t5 .block__infobox--body-overlay {
   border-left-color: #f58220;
   color: #f58220;
 }
 
-/* line 250, src/sass/components/_mapa.scss */
+/* line 281, src/sass/components/_mapa.scss */
 .block__infobox.tema-t6 {
   background-color: #0363bd;
 }
 
-/* line 253, src/sass/components/_mapa.scss */
+/* line 284, src/sass/components/_mapa.scss */
 .block__infobox.tema-t6 h2, .block__infobox.tema-t6 h3, .block__infobox.tema-t6 p {
   color: #fff;
 }
 
-/* line 257, src/sass/components/_mapa.scss */
+/* line 288, src/sass/components/_mapa.scss */
 .block__infobox.tema-t6 i {
   background-image: url("../images/mapa/pin/azul.png");
 }
 
-/* line 261, src/sass/components/_mapa.scss */
+/* line 292, src/sass/components/_mapa.scss */
 .block__infobox.tema-t6 label, .block__infobox.tema-t6 .block__infobox--body-overlay {
   border-left-color: #0055a5;
   color: #0055a5;
 }
 
-/* line 267, src/sass/components/_mapa.scss */
+/* line 298, src/sass/components/_mapa.scss */
 .block__infobox.tema-t7 {
   background-color: #06a7c7;
 }
 
-/* line 270, src/sass/components/_mapa.scss */
+/* line 301, src/sass/components/_mapa.scss */
 .block__infobox.tema-t7 h2, .block__infobox.tema-t7 h3, .block__infobox.tema-t7 p {
   color: #fff;
 }
 
-/* line 274, src/sass/components/_mapa.scss */
+/* line 305, src/sass/components/_mapa.scss */
 .block__infobox.tema-t7 label, .block__infobox.tema-t7 .block__infobox--body-overlay {
   border-left-color: #0088a3;
   color: #0088a3;
 }
 
-/* line 279, src/sass/components/_mapa.scss */
+/* line 310, src/sass/components/_mapa.scss */
 .block__infobox.tema-t7 i {
   background-image: url("../images/mapa/pin/preto.png");
 }
 
-/* line 285, src/sass/components/_mapa.scss */
+/* line 316, src/sass/components/_mapa.scss */
 .block__infobox--body {
   padding: 20px 30px;
 }
 
-/* line 288, src/sass/components/_mapa.scss */
+/* line 319, src/sass/components/_mapa.scss */
 .block__infobox--body-overlay {
   position: absolute;
   width: 0;
@@ -480,7 +526,7 @@ ________________________________________________________________________________
   top: 0;
 }
 
-/* line 300, src/sass/components/_mapa.scss */
+/* line 331, src/sass/components/_mapa.scss */
 .block__infobox h3 {
   font-size: 18px;
   margin-bottom: 10px;
@@ -488,7 +534,7 @@ ________________________________________________________________________________
   align-items: center;
 }
 
-/* line 307, src/sass/components/_mapa.scss */
+/* line 338, src/sass/components/_mapa.scss */
 .block__infobox i {
   display: inline-block;
   width: 25px;
@@ -496,19 +542,19 @@ ________________________________________________________________________________
   margin-right: 5px;
 }
 
-/* line 314, src/sass/components/_mapa.scss */
+/* line 345, src/sass/components/_mapa.scss */
 .block__infobox p {
   font-size: 15px;
   line-height: 1;
   margin-bottom: 10px;
 }
 
-/* line 320, src/sass/components/_mapa.scss */
+/* line 351, src/sass/components/_mapa.scss */
 .block__infobox strong {
   font-size: 16px;
 }
 
-/* line 324, src/sass/components/_mapa.scss */
+/* line 355, src/sass/components/_mapa.scss */
 .block__infobox--arrow {
   display: none;
   position: absolute;

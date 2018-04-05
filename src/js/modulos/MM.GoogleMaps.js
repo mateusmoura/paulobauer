@@ -215,6 +215,9 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     for (var i = this.data_json.length - 1; i >= 0; i--) {
     //for (var i = 0; i < this.data_json.length; i++) {
       const item = this.data_json[i];
+
+      console.log(item.Tipo)
+
       var latLng = new google.maps.LatLng(item.lat, item.long),
         marker = new google.maps.Marker({
           position			: latLng,
@@ -238,7 +241,8 @@ Module('MM.GoogleMaps', function (GoogleMaps){
                   // '</div>'+
                   '<div class="block__infobox--arrow"></div>' +
                 '</div>'+
-              '</div>'
+              '</div>',
+          zIndex: i < 2 ? 99999999 : 9
         });
 
       google.maps.event.addListener(marker, 'click', function	(event) {
@@ -266,8 +270,6 @@ Module('MM.GoogleMaps', function (GoogleMaps){
         var ev = event,
             $mevent = this;
 
-        
-
         var _buildHTML = $('<div>' + $mevent.html + '</div>');
 
         _this.infowindow.setContent(_buildHTML.html());
@@ -280,20 +282,11 @@ Module('MM.GoogleMaps', function (GoogleMaps){
       marker.setMap(this.google_map);
     }
 
-    const src = `${base_url}../docs/municipios_SC.kml`;
+    const src2 = `http://dev.webfacetecnologia.com.br/paulobauer/docs/sc_laranja.kml`;
+    const src = `${base_url}../docs/sc_laranja.kml`;
 
-    console.log('====================================');
-    console.log(src);
-    console.log('====================================');
-
-    var kmlLayer = new google.maps.KmlLayer(src, {
-      url: src,
-      map: this.google_map
-    });
-
-    console.log('====================================');
-    console.log(kmlLayer);
-    console.log('====================================');
+    var geoXml = new geoXML3.parser({map: this.google_map});
+    geoXml.parse(src);
 
     // this.mc	= new MarkerClusterer(this.google_map, this.markers, this.mcOptions, 'preto');
 

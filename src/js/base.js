@@ -50,6 +50,16 @@ var site = {
       MM.GoogleMaps(document.getElementById('google__map'), JSON.parse(resp));
     });
 
+    const $blockFilter = $('.block__map--filter');
+
+    $('.btn-default', $blockFilter).on('click', function() {
+      $blockFilter.toggleClass('block__map--filter-show');
+      
+      $blockFilter.hasClass('block__map--filter-show')
+        ? $(this).text('Ocultar legenda')
+        : $(this).text('Mostrar legenda');
+    })
+
     // MM.Mascarar();
     // for (var i = _collapse.length - 1; i >= 0; i--) {
     //   MM.Collapsible(_collapse.eq(i), true);
