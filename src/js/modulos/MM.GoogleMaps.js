@@ -266,6 +266,11 @@ Module('MM.GoogleMaps', function (GoogleMaps){
         //oThis.noRefresh = true;
       });
 
+      marker.addListener('dragend', function(event){
+        console.log(event.latLng.lat());
+        console.log(event.latLng.lng());
+      });
+
       google.maps.event.addListener(marker, "mouseover", function(event) {
         var ev = event,
             $mevent = this;
