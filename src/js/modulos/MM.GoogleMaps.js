@@ -14,7 +14,7 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     this.total_data_json = $json;
     this.data_json			= $json;
     this.google_map			= [];
-
+    this.cidades        = [];
     this.markerClusterer	= {};
     this.loading			= $( "#loading" );
     this.no_click_filter	= $( "#no_click_filter" );
@@ -175,8 +175,14 @@ Module('MM.GoogleMaps', function (GoogleMaps){
 
     var overlay = new Coloroverlay({ map: this.google_map });
 
+    const src2 = `http://dev.webfacetecnologia.com.br/paulobauer/docs/sc_laranja.kml`;
+    const src = `../docs/sc_laranja.kml`;
+
+    var geoXml = new geoXML3.parser({map: this.google_map});
+    geoXml.parse(src);
+
     this.build();
-    this.filter();
+    // this.filter();
   };
   /**
   * Getters
@@ -202,6 +208,8 @@ Module('MM.GoogleMaps', function (GoogleMaps){
                   isHidden				: false
                 });
 
+    // const select = $('.block__map--select');
+
     google.maps.event.addListener(this.infowindow, 'domready', function() {
       $(".block__infobox--body .fechar").click();
       $(".block__infobox--body .fechar").unbind().click(function(event) {
@@ -215,15 +223,23 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     for (var i = this.data_json.length - 1; i >= 0; i--) {
     //for (var i = 0; i < this.data_json.length; i++) {
       const item = this.data_json[i];
+      const arr = [item.titulo];
 
-      console.log(item.Tipo)
+      if (!item.localizacao) {
+        return false;
+      }
 
-      var latLng = new google.maps.LatLng(item.lat, item.long),
+      if (this.cidades.indexOf(item.titulo) === -1) {
+        this.cidades.push(item.titulo);
+        // $(`<option value="${item.titulo}">${item.titulo}</option>`).appendTo(select);
+      }
+
+      var latLng = new google.maps.LatLng(item.localizacao.lat, item.localizacao.lng),
         marker = new google.maps.Marker({
           position			: latLng,
           draggable			: false,
           icon				: new google.maps.MarkerImage(`${base_url}/../images/mapa/pin/${this.styles[item.tema].name}.png`, new google.maps.Size(25, 25)),
-          title				: item.Tipo,
+          title				: item.tipo,
           // categories			: item.categories,
           //horario				: item.horario_de_funcionamento,
           //endereco			: item.localizacao.address,
@@ -232,9 +248,9 @@ Module('MM.GoogleMaps', function (GoogleMaps){
           html: '<div class="block__infobox tema-' + item.tema + '">'+
                 '<div class="block__infobox--body">'+
                   '<div class="block__infobox--body-overlay"></div>' +
-                  '<h2>' + item.Cidade + '</h2>' +
-                  '<h3><i class="icone icone-' + item.tema + '"></i>' + item.Tipo + '</h3>' +
-                  '<p>' + item['Descrição'] + '</p>' +
+                  '<h2>' + item.titulo + '</h2>' +
+                  '<h3><i class="icone icone-' + item.tema + '"></i>' + item.tipo + '</h3>' +
+                  '<p>' + item.content + '</p>' +
                   // '<strong>' + item.Valor + '</strong>' +
                   // '<div class="block__infobox--foot">'+
                   //   '<a class="fechar" href="' + item.link_do_post + '">Ler post sobre este lugar <i class="icon icon-arrow"></i></a>'+
@@ -282,20 +298,36 @@ Module('MM.GoogleMaps', function (GoogleMaps){
         _this.infowindow.setPosition(event.latLng);
       });
 
+      google.maps.event.addListener(marker, "mouseout", function(event) {
+        _this.infowindow.close();
+      });
+
       this.markers.push(marker);
 
       marker.setMap(this.google_map);
     }
 
-    const src2 = `http://dev.webfacetecnologia.com.br/paulobauer/docs/sc_laranja.kml`;
-    const src = `../docs/sc_laranja.kml`;
-
-    var geoXml = new geoXML3.parser({map: this.google_map});
-    geoXml.parse(src);
-
     // this.mc	= new MarkerClusterer(this.google_map, this.markers, this.mcOptions, 'preto');
 
     this.blockClick = false;
+
+    const input = $('#ms-filter').magicSuggest({
+      sortOrder: 'name',
+      noSuggestionText: 'Sem sugestões',
+      placeholder: 'Selecione uma cidade',
+      allowFreeEntries: false,
+      data: this.cidades,
+      selectionPosition: 'bottom',
+      selectionStacked: true,
+      selectionRenderer: function(data){
+        // this.cidadesSelecionadas.push(data);
+        return data.name;
+      }
+    });
+
+    $(input).unbind().on('selectionchange', function(e,m){
+      _this.filterCity(this.getValue());
+    });
   };
   /**
   * Adiciona os eventos necessários.
@@ -361,5 +393,25 @@ Module('MM.GoogleMaps', function (GoogleMaps){
 
       this.build();
     })
+  };
+  /**
+  * Filtros Cidades
+  */
+  GoogleMaps.fn.filterCity = function(filterArray) {
+    if (this.blockClick) return false;
+
+    this.blockClick = true;
+
+    this.removeMarker();
+
+    if (filterArray.length) {
+      this.data_json = this.total_data_json.filter(item => {
+        return filterArray.indexOf(item.titulo) >= 0;
+      });
+    } else {
+      this.data_json = this.total_data_json;
+    }
+
+    this.build();
   };
 });

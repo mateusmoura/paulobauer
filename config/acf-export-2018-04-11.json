@@ -1,0 +1,107 @@
+[
+    {
+        "key": "group_5abb0f765c01d",
+        "title": "Emendas",
+        "fields": [
+            {
+                "key": "field_5abb0ff153207",
+                "label": "Local",
+                "name": "local",
+                "type": "google_map",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "center_lat": "-27.1587032",
+                "center_lng": "-50.2951048",
+                "zoom": 17,
+                "height": ""
+            },
+            {
+                "key": "field_5abb107d53208",
+                "label": "Tipo",
+                "name": "tipo",
+                "type": "select",
+                "instructions": "",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "choices": {
+                    "t2": "Agricultura",
+                    "t5": "Assistência Social",
+                    "t7": "Cultura",
+                    "t3": "Educação",
+                    "t4": "Esporte",
+                    "t1": "Infraestrutura",
+                    "t6": "Saúde"
+                },
+                "default_value": [
+
+                ],
+                "allow_null": 0,
+                "multiple": 0,
+                "ui": 0,
+                "ajax": 0,
+                "placeholder": "",
+                "disabled": 0,
+                "readonly": 0,
+                "return_format": "value"
+            },
+            {
+                "key": "field_5acbfecf9a501",
+                "label": "Valor",
+                "name": "valor",
+                "type": "text",
+                "instructions": "Valor da Emenda",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": "",
+                "readonly": 0,
+                "disabled": 0
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "acoes"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": [
+            "excerpt",
+            "custom_fields",
+            "revisions",
+            "slug",
+            "author",
+            "format",
+            "page_attributes",
+            "categories"
+        ],
+        "active": 1,
+        "description": ""
+    }
+]

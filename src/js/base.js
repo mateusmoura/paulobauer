@@ -46,9 +46,21 @@ var site = {
 
     // this.convertXLSXtoJSON();
 
-    $.getScript(base_url + "docs/success.json", (resp) => {
-      MM.GoogleMaps(document.getElementById('google__map'), JSON.parse(resp));
-    });
+    
+
+    $.ajax({
+			type: 'GET',
+			url: 'http://localhost/paulobauer/wordpress/', // templateDir is declared in the footer
+			success: function(result) {
+				var length = result.length;
+
+        MM.GoogleMaps(document.getElementById('google__map'), result);
+			},
+		});
+
+    // $.getScript(base_url + "docs/success.json", (resp) => {
+    //   MM.GoogleMaps(document.getElementById('google__map'), JSON.parse(resp));
+    // });
 
     const $blockFilter = $('.block__map--filter');
 

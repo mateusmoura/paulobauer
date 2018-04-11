@@ -38,6 +38,7 @@ ________________________________________________________________________________
     z-index: 90;
     border-radius: 5px;
     height: 55px;
+    min-width: 230px;
     overflow: hidden;
     @include transition(height 0.3s ease-in-out);
 
@@ -45,6 +46,7 @@ ________________________________________________________________________________
       height: auto;
       top: 50px;
       right: 5%;
+      overflow: visible;
     }
 
     @include desktops {
@@ -57,7 +59,8 @@ ________________________________________________________________________________
 
     &-show {
       @include transition(height 0.3s ease-in-out);
-      height: 300px;
+      height: inherit;
+      overflow: visible;
     }
   }
 
@@ -364,4 +367,10 @@ ________________________________________________________________________________
     margin-left: -20px;
     bottom: -15px;
   }
+}
+
+.gm-style-iw + div {display: none;}
+
+.gm-style-iw {
+  border: solid 10px red !important; 
 }

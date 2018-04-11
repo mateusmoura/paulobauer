@@ -1,5 +1,3 @@
-<?php get_header(); ?>
-
 <?php 
 	$counter				= 0;
 	$page_index				= 0;
@@ -9,7 +7,9 @@
 
 	for ($i = 0; $i < count($places); ++$i) {
 		$lat_long = get_field('local', $places[$i]->ID);
-		$tipo = get_field('tipo', $places[$i]->ID);
+		$select = get_field_object('tipo', $places[$i]->ID);
+		$tema = $select['value'];
+		$tipo = $select['choices'][$tema];
 		$valor = get_field('valor', $places[$i]->ID);
 		$post = get_post($places[$i]->ID);
 		$categories = wp_get_post_categories($places[$i]->ID);
@@ -23,6 +23,7 @@
 
 		$places[$i]->localizacao = $lat_long;
 		$places[$i]->tipo = $tipo;
+		$places[$i]->tema = $tema;
 		$places[$i]->valor = $valor;
 		$places[$i]->titulo = $post->post_title;
 		$places[$i]->content = $post->post_content;
@@ -32,32 +33,6 @@
 
 	$json_pages = json_encode($places);
 
-	
+	header('Content-Type: application/json');
+	echo $json_pages;
 ?>
-	<script>
-			var emendas = <?php echo $json_pages; ?>;
-
-			console.log(emendas);
-		</script>
-
-	<code>
-		<?php echo $json_pages; ?>
-	</code>
-
-	<main role="main">
-		<!-- section -->
-		<section>
-
-			<h1><?php _e( 'Latest Posts', 'html5blank' ); ?></h1>
-
-			<?php get_template_part('loop'); ?>
-
-			<?php get_template_part('pagination'); ?>
-
-		</section>
-		<!-- /section -->
-	</main>
-
-<?php get_sidebar(); ?>
-
-<?php get_footer(); ?>
