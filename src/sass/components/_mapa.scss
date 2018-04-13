@@ -11,6 +11,29 @@ ________________________________________________________________________________
 
 .block__map {
   position: relative;
+  overflow: hidden;
+
+  .btn-filter {
+    border: none;
+    border-radius: 5px;
+    background: $white-color;
+    color: $text-color;
+    font-size: 18px;
+    position: absolute;
+    padding: 5px;
+    top: 5px;
+    cursor: pointer;
+    right: 15%;
+    z-index: 9999999;
+
+    .fa-close {
+      display: none;
+    }
+
+    @include tablet {
+      display: none;
+    }
+  }
 
   .center {
     position: relative;
@@ -29,18 +52,33 @@ ________________________________________________________________________________
     width: 100%;
   }
 
+  &--overlay {
+    background: rgba(0,0,0,0.5);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+
+    @include tablet {
+      display: none;
+    }
+  }
+
   &--filter {
     background-color: #fff;
     position: absolute;
     padding: 10px;
-    top: 10px;
-    right: 15%;
+    top: 0;
+    right: -100%;
     z-index: 90;
-    border-radius: 5px;
-    height: 55px;
     min-width: 230px;
     overflow: hidden;
     @include transition(height 0.3s ease-in-out);
+    height: 100%;
 
     @include tablet {
       height: auto;
@@ -59,8 +97,7 @@ ________________________________________________________________________________
 
     &-show {
       @include transition(height 0.3s ease-in-out);
-      height: inherit;
-      overflow: visible;
+      right: 0;
     }
   }
 

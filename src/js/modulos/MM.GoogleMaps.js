@@ -178,7 +178,12 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     const src2 = `http://dev.webfacetecnologia.com.br/paulobauer/docs/sc_laranja.kml`;
     const src = `../docs/sc_laranja.kml`;
 
-    var geoXml = new geoXML3.parser({map: this.google_map});
+    var geoXml = new geoXML3.parser({
+      map: this.google_map,
+      singleInfoWindow: false,
+      suppressInfoWindows : true,
+      zoom : false
+    });
     geoXml.parse(src);
 
     this.build();

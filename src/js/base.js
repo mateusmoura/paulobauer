@@ -46,30 +46,55 @@ var site = {
 
     // this.convertXLSXtoJSON();
 
-    
-
     $.ajax({
-			type: 'GET',
-			url: 'http://localhost/paulobauer/wordpress/', // templateDir is declared in the footer
-			success: function(result) {
-				var length = result.length;
+      type: 'GET',
+      url: 'http://paulobauer.com.br/site/mapa/', // http://paulobauer.com.br/site/mapa/ templateDir is declared in the footer http://localhost/paulobauer/wordpress/
+      success: function(result) {
+        var length = result.length;
 
         MM.GoogleMaps(document.getElementById('google__map'), result);
-			},
-		});
+      },
+    });
 
     // $.getScript(base_url + "docs/success.json", (resp) => {
     //   MM.GoogleMaps(document.getElementById('google__map'), JSON.parse(resp));
     // });
 
     const $blockFilter = $('.block__map--filter');
+    const $overlay = $('.block__map--overlay');
 
-    $('.btn-default', $blockFilter).on('click', function() {
-      $blockFilter.toggleClass('block__map--filter-show');
+    // $('.btn-default', $blockFilter).on('click', function() {
+    //   $blockFilter.toggleClass('block__map--filter-show');
       
-      $blockFilter.hasClass('block__map--filter-show')
-        ? $(this).text('Ocultar legenda')
-        : $(this).text('Mostrar legenda');
+    //   $blockFilter.hasClass('block__map--filter-show')
+    //     ? $(this).text('Ocultar legenda')
+    //     : $(this).text('Mostrar legenda');
+    // })
+
+    $('.btn-filter').on('click', function() {
+      var $this = $(this);
+
+      $this.toggleClass('open')
+
+      if ($this.hasClass('open')) {
+        $('.fa-bars', $this).hide();
+        $('.fa-close', $this).show();
+
+        $overlay.fadeIn();
+
+        $blockFilter.animate({
+          right: 0,
+        });
+      } else {
+        $('.fa-close', $this).hide();
+        $('.fa-bars', $this).show();
+
+        $overlay.fadeOut();
+
+        $blockFilter.animate({
+          right: '-100%',
+        });
+      }
     })
 
     // MM.Mascarar();
