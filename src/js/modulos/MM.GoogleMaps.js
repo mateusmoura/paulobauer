@@ -316,6 +316,25 @@ Module('MM.GoogleMaps', function (GoogleMaps){
 
     this.blockClick = false;
 
+    google.maps.event.addListener(this.google_map, 'zoom_changed', function() {
+      zoomChangeBoundsListener = 
+        google.maps.event.addListener(_this.google_map, 'bounds_changed', function(event) {
+          if (this.getZoom() > 10 && _this.initialZoom == true) {
+            // Change max/min zoom here
+            this.setZoom(10);
+            _this.initialZoom = false;
+          }
+        google.maps.event.removeListener(zoomChangeBoundsListener);
+      });
+    });
+
+    if (this.mapCenterBounds) {
+      const bounds = new google.maps.LatLngBounds();
+      bounds.extend(this.markers[this.markers.length - 1].getPosition());
+      this.initialZoom = true;
+      this.google_map.fitBounds(bounds);
+    }
+
     const input = $('#ms-filter').magicSuggest({
       sortOrder: 'name',
       noSuggestionText: 'Sem sugestões',
@@ -331,8 +350,16 @@ Module('MM.GoogleMaps', function (GoogleMaps){
     });
 
     $(input).unbind().on('selectionchange', function(e,m){
+      if (this.getValue().length) {
+        _this.mapCenterBounds = true;
+      } else {
+        _this.mapCenterBounds = false;
+      }
+
       _this.filterCity(this.getValue());
     });
+
+    $('.block__map--loading, .block__map--overlay').fadeOut();
   };
   /**
   * Adiciona os eventos necessários.

@@ -54,6 +54,9 @@ var site = {
 
         MM.GoogleMaps(document.getElementById('google__map'), result);
       },
+      error: function () {
+        $('.block__map--loading, .block__map--overlay').fadeOut();
+      },
     });
 
     // $.getScript(base_url + "docs/success.json", (resp) => {

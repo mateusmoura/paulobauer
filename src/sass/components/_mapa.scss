@@ -17,13 +17,13 @@ ________________________________________________________________________________
     border: none;
     border-radius: 5px;
     background: $white-color;
-    color: $text-color;
-    font-size: 18px;
+    color: $info;
+    font-size: 28px;
     position: absolute;
-    padding: 5px;
+    padding: 10px;
     top: 5px;
     cursor: pointer;
-    right: 15%;
+    right: 5px;
     z-index: 9999999;
 
     .fa-close {
@@ -61,11 +61,17 @@ ________________________________________________________________________________
     right: 0;
     width: 100%;
     height: 100%;
-    display: none;
+  }
 
-    @include tablet {
-      display: none;
-    }
+  &--loading {
+    background: $white-color url('../images/mapa/loader.gif') no-repeat center;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    margin: -25px 0 0 -25px;
+    left: 50%;
+    width: 50px;
+    height: 50px;
   }
 
   &--filter {
